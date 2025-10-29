@@ -1,0 +1,47 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Outer ring -->
+  <circle cx="100" cy="100" r="95" fill="none" stroke="#666" stroke-width="4"/>
+  
+  <!-- Inner ring -->
+  <circle cx="100" cy="100" r="85" fill="none" stroke="#999" stroke-width="2"/>
+  
+  <!-- Background circle -->
+  <circle cx="100" cy="100" r="75" fill="white"/>
+  
+  <!-- Caduceus symbol -->
+  <g transform="translate(100, 100)">
+    <!-- Staff -->
+    <line x1="0" y1="-25" x2="0" y2="25" stroke="#333" stroke-width="3"/>
+    
+    <!-- Top circle -->
+    <circle cx="0" cy="-25" r="3" fill="#333"/>
+    
+    <!-- Wings -->
+    <path d="M-8,-20 Q-15,-15 -8,-10" stroke="#333" stroke-width="2" fill="none"/>
+    <path d="M8,-20 Q15,-15 8,-10" stroke="#333" stroke-width="2" fill="none"/>
+    
+    <!-- Serpents -->
+    <path d="M-3,-20 Q-8,-5 -3,10" stroke="#333" stroke-width="2" fill="none"/>
+    <path d="M3,-20 Q8,-5 3,10" stroke="#333" stroke-width="2" fill="none"/>
+  </g>
+  
+  <!-- HIPAA text (top) -->
+  <text x="100" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#333">HIPAA</text>
+  
+  <!-- COMPLIANT text (bottom) -->
+  <text x="100" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">COMPLIANT</text>
+  
+  <!-- Copyright text -->
+  <text x="150" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#999">© 2024</text>
+  
+  <!-- The HIPAA Journal logo -->
+  <g transform="translate(20, 170)">
+    <!-- Heart rate monitor line -->
+    <path d="M0,0 L5,-3 L10,3 L15,-2 L20,2" stroke="#333" stroke-width="2" fill="none"/>
+    
+    <!-- Text -->
+    <text x="25" y="-5" font-family="Arial, sans-serif" font-size="6" font-weight="bold" fill="#333">THE</text>
+    <text x="25" y="2" font-family="Arial, sans-serif" font-size="8" font-weight="bold" fill="#333">HIPAA</text>
+    <text x="25" y="9" font-family="Arial, sans-serif" font-size="6" fill="#333">JOURNAL</text>
+  </g>
+</svg>

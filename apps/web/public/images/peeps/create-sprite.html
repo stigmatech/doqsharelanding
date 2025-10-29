@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Open Peeps Sprite Creator</title>
+    <style>
+        body { font-family: Arial, sans-serif; padding: 20px; }
+        canvas { border: 1px solid #ccc; margin: 10px 0; }
+        button { padding: 10px 20px; background: #007bff; color: white; border: none; cursor: pointer; }
+    </style>
+</head>
+<body>
+    <h1>Open Peeps Sprite Creator</h1>
+    <p>Ce script va créer un sprite avec les personnages Open Peeps.</p>
+    
+    <canvas id="spriteCanvas" width="1000" height="200"></canvas>
+    <br>
+    <button onclick="createSprite()">Créer le sprite</button>
+    <button onclick="downloadSprite()">Télécharger le sprite</button>
+    
+    <script>
+        const canvas = document.getElementById('spriteCanvas');
+        const ctx = canvas.getContext('2d');
+        
+        // Liste des personnages à inclure
+        const peeps = [
+            'peep-1', 'peep-2', 'peep-3', 'peep-4', 'peep-5',
+            'peep-6', 'peep-7', 'peep-8', 'peep-9', 'peep-10'
+        ];
+        
+        let loadedImages = 0;
+        const images = [];
+        
+        function createSprite() {
+            // Charger toutes les images
+            peeps.forEach((peep, index) => {
+                const img = new Image();
+                img.onload = () => {
+                    loadedImages++;
+                    images[index] = img;
+                    
+                    if (loadedImages === peeps.length) {
+                        drawSprite();
+                    }
+                };
+                img.src = `Bust/${peep}.png`;
+            });
+        }
+        
+        function drawSprite() {
+            // Effacer le canvas
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
+            
+            // Dessiner chaque personnage
+            images.forEach((img, index) => {
+                if (img) {
+                    const x = index * 100;
+                    const y = 0;
+                    ctx.drawImage(img, x, y, 100, 200);
+                }
+            });
+        }
+        
+        function downloadSprite() {
+            const link = document.createElement('a');
+            link.download = 'openpeeps-sprite.png';
+            link.href = canvas.toDataURL();
+            link.click();
+        }
+        
+        // Charger automatiquement au chargement de la page
+        window.onload = createSprite;
+    </script>
+</body>
+</html>

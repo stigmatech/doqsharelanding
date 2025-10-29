@@ -1,0 +1,34 @@
+<svg width="100" height="120" viewBox="0 0 100 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Personnage 5 - Femme avec queue de cheval -->
+  <g>
+    <!-- Cheveux en queue de cheval -->
+    <path d="M25 20 Q30 15 35 20 Q40 15 45 20 Q50 15 55 20 Q60 15 65 20 Q70 15 75 20 Q80 25 75 35 Q70 30 65 25 Q60 30 55 25 Q50 30 45 25 Q40 30 35 25 Q30 30 25 35 Q20 25 25 20" fill="#84CC16"/>
+    
+    <!-- Queue de cheval -->
+    <path d="M65 25 Q70 20 75 25 Q80 30 75 40 Q70 35 65 30 Q60 35 55 30 Q50 35 45 30 Q40 35 35 30 Q30 35 25 30 Q20 35 25 40 Q30 35 35 30 Q40 35 45 30 Q50 35 55 30 Q60 35 65 30 Q70 35 75 30 Q80 25 75 20 Q70 25 65 30" fill="#84CC16"/>
+    
+    <!-- Visage -->
+    <circle cx="50" cy="45" r="18" fill="#FED7AA"/>
+    
+    <!-- Yeux -->
+    <circle cx="43" cy="40" r="3" fill="#1F2937"/>
+    <circle cx="57" cy="40" r="3" fill="#1F2937"/>
+    
+    <!-- Nez -->
+    <ellipse cx="50" cy="48" rx="2" ry="1" fill="#FED7AA"/>
+    
+    <!-- Bouche souriante -->
+    <path d="M45 55 Q50 60 55 55" stroke="#1F2937" stroke-width="2" fill="none"/>
+    
+    <!-- Corps -->
+    <rect x="35" y="65" width="30" height="40" rx="5" fill="#F97316"/>
+    
+    <!-- Bras -->
+    <rect x="25" y="70" width="8" height="25" rx="4" fill="#FED7AA"/>
+    <rect x="67" y="70" width="8" height="25" rx="4" fill="#FED7AA"/>
+    
+    <!-- Jambes -->
+    <rect x="38" y="105" width="8" height="15" rx="4" fill="#1F2937"/>
+    <rect x="54" y="105" width="8" height="15" rx="4" fill="#1F2937"/>
+  </g>
+</svg>

@@ -1,0 +1,35 @@
+<svg width="100" height="120" viewBox="0 0 100 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Personnage 4 - Homme avec chapeau -->
+  <g>
+    <!-- Chapeau -->
+    <ellipse cx="50" cy="25" rx="25" ry="8" fill="#1F2937"/>
+    <rect x="30" y="20" width="40" height="15" rx="5" fill="#1F2937"/>
+    
+    <!-- Visage -->
+    <circle cx="50" cy="45" r="18" fill="#FED7AA"/>
+    
+    <!-- Yeux -->
+    <circle cx="43" cy="40" r="3" fill="#1F2937"/>
+    <circle cx="57" cy="40" r="3" fill="#1F2937"/>
+    
+    <!-- Nez -->
+    <ellipse cx="50" cy="48" rx="2" ry="1" fill="#FED7AA"/>
+    
+    <!-- Moustache -->
+    <path d="M45 52 Q50 55 55 52" stroke="#1F2937" stroke-width="3" fill="none"/>
+    
+    <!-- Bouche -->
+    <path d="M47 58 Q50 60 53 58" stroke="#1F2937" stroke-width="1" fill="none"/>
+    
+    <!-- Corps -->
+    <rect x="35" y="65" width="30" height="40" rx="5" fill="#06B6D4"/>
+    
+    <!-- Bras -->
+    <rect x="25" y="70" width="8" height="25" rx="4" fill="#FED7AA"/>
+    <rect x="67" y="70" width="8" height="25" rx="4" fill="#FED7AA"/>
+    
+    <!-- Jambes -->
+    <rect x="38" y="105" width="8" height="15" rx="4" fill="#1F2937"/>
+    <rect x="54" y="105" width="8" height="15" rx="4" fill="#1F2937"/>
+  </g>
+</svg>
