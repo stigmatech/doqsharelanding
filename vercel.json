@@ -1,8 +1,7 @@
 {
-  "buildCommand": "cd doqsharelanding && pnpm install && pnpm build --filter=web",
-  "outputDirectory": "doqsharelanding/apps/web/.next",
-  "installCommand": "cd doqsharelanding && pnpm install",
-  "framework": "nextjs",
-  "rootDirectory": "doqsharelanding"
+  "buildCommand": "pnpm install && pnpm build --filter=web",
+  "outputDirectory": "apps/web/.next",
+  "installCommand": "pnpm install",
+  "framework": "nextjs"
 }
 
