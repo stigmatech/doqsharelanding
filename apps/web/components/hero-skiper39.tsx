@@ -29,7 +29,7 @@ const HeroSkiper39 = () => (
       </p>
       <div className="flex items-center gap-2">
         <Button asChild>
-          <Link href="#">Get started</Link>
+          <Link href="https://dashboard.doqshare.com">Get started</Link>
         </Button>
         <Button asChild variant="outline">
           <Link className="no-underline" href="#">
@@ -65,7 +65,7 @@ const HeroCustomCrowd = () => (
       </p>
       <div className="flex items-center gap-2">
         <Button asChild>
-          <Link href="#">Get started</Link>
+          <Link href="https://dashboard.doqshare.com">Get started</Link>
         </Button>
         <Button asChild variant="outline">
           <Link className="no-underline" href="#">

@@ -43,10 +43,10 @@ export default function Header() {
         {/* Auth buttons - Right side */}
         <div className="flex items-center space-x-2" role="group" aria-label="User actions">
           <AccessibleButton variant="ghost" size="sm" asChild>
-            <Link href="#signin">Sign In</Link>
+            <Link href="https://dashboard.doqshare.com">Sign In</Link>
           </AccessibleButton>
           <AccessibleButton size="sm" asChild>
-            <Link href="#getstarted">Get Started</Link>
+            <Link href="https://dashboard.doqshare.com">Get Started</Link>
           </AccessibleButton>
         </div>
       </div>

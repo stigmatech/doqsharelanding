@@ -16,7 +16,7 @@
     }
   ],
   "env": {
-    "NEXTAUTH_URL": "https://account.doqshare.com",
+    "NEXTAUTH_URL": "https://dashboard.doqshare.com",
     "NEXTAUTH_SECRET": "@nextauth_secret"
   }
 }

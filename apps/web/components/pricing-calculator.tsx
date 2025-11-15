@@ -162,8 +162,8 @@ export default function PricingCalculator() {
               </p>
             </CardHeader>
             <CardContent className="text-center">
-              <Button size="lg" className="w-full">
-                Get Started
+              <Button size="lg" className="w-full" asChild>
+                <a href="https://dashboard.doqshare.com">Get Started</a>
               </Button>
             </CardContent>
           </Card>

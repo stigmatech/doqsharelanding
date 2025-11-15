@@ -128,7 +128,7 @@ export default function PricingPlansShort() {
                   size="lg"
                   asChild
                 >
-                  <Link href="#getstarted">
+                  <Link href="https://dashboard.doqshare.com">
                     {plan.buttonText}
                   </Link>
                 </Button>

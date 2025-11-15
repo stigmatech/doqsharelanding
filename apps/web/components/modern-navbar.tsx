@@ -119,10 +119,10 @@ export default function ModernNavbar() {
           </div>
           <nav className="flex items-center space-x-2">
             <Button variant="ghost" size="sm" asChild>
-              <Link href="#signin">Sign In</Link>
+              <Link href="https://dashboard.doqshare.com">Sign In</Link>
             </Button>
             <Button size="sm" asChild>
-              <Link href="#getstarted">Get Started</Link>
+              <Link href="https://dashboard.doqshare.com">Get Started</Link>
             </Button>
           </nav>
         </div>

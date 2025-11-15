@@ -1,4 +1,5 @@
 import { Metadata } from "next";
+import Link from "next/link";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@workspace/ui/components/card";
 import { Button } from "@workspace/ui/components/button";
 import { Users, Target, Shield, Zap } from "lucide-react";
@@ -207,11 +208,11 @@ export default function AboutPage() {
           Join thousands of companies who trust DoqShare with their most important documents.
         </p>
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
-          <Button size="lg">
-            Start for Free
+          <Button size="lg" asChild>
+            <a href="https://dashboard.doqshare.com">Start for Free</a>
           </Button>
-          <Button size="lg" variant="outline">
-            Contact Sales
+          <Button size="lg" variant="outline" asChild>
+            <Link href="/contact">Contact Sales</Link>
           </Button>
         </div>
       </div>

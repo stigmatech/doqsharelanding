@@ -35,7 +35,7 @@ export default function DataRoomHeroSection() {
                                     asChild
                                     size="lg"
                                     className="h-12 rounded-full pl-5 pr-3 text-base">
-                                    <Link href="/contact-sales">
+                                    <Link href="https://dashboard.doqshare.com">
                                         <span className="text-nowrap">Start Data Room</span>
                                         <ChevronRight className="ml-1" />
                                     </Link>

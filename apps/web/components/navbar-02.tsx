@@ -367,22 +367,20 @@ export const Navbar02 = React.forwardRef<HTMLElement, Navbar02Props>(
               variant="ghost"
               size="sm"
               className="text-sm font-medium hover:bg-accent hover:text-accent-foreground"
-              onClick={(e) => {
-                e.preventDefault();
-                if (onSignInClick) onSignInClick();
-              }}
+              asChild
             >
-              {signInText}
+              <Link href={signInHref || "https://dashboard.doqshare.com"}>
+                {signInText}
+              </Link>
             </Button>
             <Button
               size="sm"
               className="text-sm font-medium px-4 h-9 rounded-md shadow-sm"
-              onClick={(e) => {
-                e.preventDefault();
-                if (onCtaClick) onCtaClick();
-              }}
+              asChild
             >
-              {ctaText}
+              <Link href={ctaHref || "https://dashboard.doqshare.com"}>
+                {ctaText}
+              </Link>
             </Button>
           </div>
         </div>

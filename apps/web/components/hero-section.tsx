@@ -30,7 +30,7 @@ export default function HeroSection() {
                                         asChild
                                         size="lg"
                                         className="h-12 rounded-full pl-5 pr-3 text-base">
-                                        <Link href="/signup">
+                                        <Link href="https://dashboard.doqshare.com">
                                             <span className="text-nowrap">Start for Free</span>
                                             <ChevronRight className="ml-1" />
                                         </Link>

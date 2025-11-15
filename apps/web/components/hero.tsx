@@ -40,7 +40,7 @@ const Hero = () => {
         </p>
         <div className="flex items-center gap-2">
           <Button asChild aria-label="Start free trial of DoqShare">
-            <Link href="#">Start for Free</Link>
+            <Link href="https://dashboard.doqshare.com">Start for Free</Link>
           </Button>
           <Button 
             variant="outline" 
