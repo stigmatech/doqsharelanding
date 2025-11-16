@@ -53,19 +53,37 @@ export const metadata: Metadata = generateSEOMetadata({
       },
       {
         "@type": "Offer", 
-        "name": "Professional Plan",
+        "name": "DoQshare Pro",
         "price": "29",
         "priceCurrency": "USD",
-        "description": "Professional plan with advanced analytics",
+        "description": "Professional plan with advanced analytics and custom branding",
         "availability": "https://schema.org/InStock",
         "validFrom": "2024-01-01"
       },
       {
         "@type": "Offer",
-        "name": "Enterprise Plan",
-        "price": "99",
+        "name": "DoQshare Business",
+        "price": "79",
         "priceCurrency": "USD", 
-        "description": "Enterprise plan with advanced features",
+        "description": "Business plan with unlimited light data rooms and advanced security",
+        "availability": "https://schema.org/InStock",
+        "validFrom": "2024-01-01"
+      },
+      {
+        "@type": "Offer",
+        "name": "Data Rooms",
+        "price": "199",
+        "priceCurrency": "USD", 
+        "description": "Data Rooms plan with unlimited data rooms and enterprise features",
+        "availability": "https://schema.org/InStock",
+        "validFrom": "2024-01-01"
+      },
+      {
+        "@type": "Offer",
+        "name": "Data Rooms Plus",
+        "price": "349",
+        "priceCurrency": "USD", 
+        "description": "Premium data rooms plan with unlimited storage and dedicated support",
         "availability": "https://schema.org/InStock",
         "validFrom": "2024-01-01"
       }
