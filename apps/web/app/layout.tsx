@@ -1,5 +1,6 @@
 import { Geist, Geist_Mono } from "next/font/google"
 import { Metadata } from "next"
+import { Analytics } from '@vercel/analytics/next'
 
 import "@workspace/ui/globals.css"
 import { Providers } from "@/components/providers"
@@ -66,6 +67,7 @@ export default function RootLayout({
                   </AnnouncerProvider>
                 </GlobalErrorHandler>
               </ErrorBoundary>
+              <Analytics />
             </body>
     </html>
   )
