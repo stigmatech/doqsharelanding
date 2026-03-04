@@ -1,0 +1,24 @@
+# Blog Posts Directory
+
+Place your markdown blog posts here. Each post should be a `.md` file with frontmatter.
+
+Example structure:
+
+```markdown
+---
+title: "Your Post Title"
+excerpt: "A brief description of your post"
+author: "Author Name"
+date: "December 20, 2024"
+category: "Category"
+readTime: "5 min read"
+image: "/images/blog/your-image.jpg"
+tags:
+  - Tag1
+  - Tag2
+featured: false
+---
+
+Your markdown content here...
+```
+

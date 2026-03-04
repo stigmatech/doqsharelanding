@@ -1,0 +1,3387 @@
+{
+  "navigation": {
+    "features": "Features",
+    "how_it_works": "How it Works",
+    "api": "API",
+    "integrations": "Integrations",
+    "security": "Security",
+    "analytics": "Analytics",
+    "data_room": "Data Room",
+    "pricing": "Pricing",
+    "enterprise": "Enterprise",
+    "solutions": "Solutions",
+    "startups": "Startups",
+    "freelance": "Freelance",
+    "resources": "Resources",
+    "documentation": "Documentation",
+    "support": "Support",
+    "blog": "Blog",
+    "sign_in": "Sign In",
+    "get_started": "Get Started"
+  },
+  "hero": {
+    "badge": "SOC2, HIPAA & GDPR Compliant",
+    "title": "Secure Document Sharing with Advanced Analytics",
+    "description": "DoQshare revolutionizes how teams share, track, and secure their most important documents. Enterprise-grade security meets powerful analytics for complete document control.",
+    "feature_zero_knowledge": "Zero-Knowledge Architecture",
+    "feature_free_trial": "14-Day Free Trial",
+    "feature_no_cc": "No Credit Card Required",
+    "cta_primary": "Start Free Trial",
+    "cta_secondary": "Schedule Demo"
+  },
+  "hero_data_room": {
+    "badge": "SOC2, HIPAA & GDPR Compliant",
+    "title": "Secure Virtual Data Room for Your Deals",
+    "description": "Create your secure virtual data room with DoQshare. Perfect for M&A, fundraising, due diligence, and investment rounds. Enterprise-grade security with advanced analytics for complete deal control.",
+    "feature_unlimited": "Unlimited Data Rooms",
+    "feature_security": "Bank-Level Security",
+    "feature_free_trial": "14-Day Free Trial",
+    "cta_primary": "Create Data Room",
+    "cta_secondary": "Schedule Demo"
+  },
+  "hero_security": {
+    "badges": {
+      "soc2": "SOC2 Compliant",
+      "hipaa": "HIPAA Compliant",
+      "gdpr": "GDPR Compliant",
+      "ccpa": "CCPA Compliant"
+    },
+    "title": "Enterprise-Grade Security",
+    "description": "DoQshare is committed to the security and privacy of our customers' data. We provide industry-leading security features to protect your sensitive documents and ensure compliance with global data protection regulations.",
+    "feature_encryption": "AES-256 Encryption",
+    "feature_zero_knowledge": "Zero-Knowledge Architecture",
+    "feature_uptime": "99.9% Uptime SLA",
+    "cta_primary": "Start for Free",
+    "cta_secondary": "Contact Security Team",
+    "last_updated": "Last updated:"
+  },
+  "hero_analytics": {
+    "badge": "Advanced Analytics",
+    "title": "Document Analytics Page by Page",
+    "description": "Get detailed insights into how your documents are being viewed and shared. Track page views, time spent, and viewer engagement with DoQshare's powerful analytics.",
+    "feature_tracking": "Page-by-Page Tracking",
+    "feature_insights": "Real-Time Insights",
+    "feature_export": "Export Analytics",
+    "cta_primary": "Start Tracking Now",
+    "cta_secondary": "Book a Demo"
+  },
+  "hero_how_it_works": {
+    "badge": "SOC2, HIPAA & GDPR Compliant",
+    "title": "Secure Document Sharing and Tracking",
+    "description": "Smart data rooms. Page by page document analytics. Your #1 alternative to Docsend. Share documents securely, track engagement in real-time, and close deals faster.",
+    "feature_upload": "Bulk Upload Documents",
+    "feature_share": "Share via Secure Links",
+    "feature_track": "Track Time on Each Page",
+    "cta_primary": "Start for Free",
+    "cta_secondary": "Book a Demo",
+    "no_cc": "No credit card required"
+  },
+  "hero_features": {
+    "badge": "SOC2, HIPAA & GDPR Compliant",
+    "title": "Everything you need to share securely",
+    "description": "DoQshare combines advanced analytics with enterprise-grade security and intuitive controls, making secure document sharing simple and powerful for every business.",
+    "feature_analytics": "Advanced Analytics",
+    "feature_security": "Enterprise Security",
+    "feature_free_trial": "14-Day Free Trial",
+    "cta_primary": "Sign up here",
+    "cta_secondary": "Book a Demo"
+  },
+  "feature5": {
+    "badge": "Platform",
+    "title": "Everything you need to share securely",
+    "description": "Managing document sharing and security shouldn't be complicated. DoQshare makes it simple and powerful.",
+    "features": {
+      "data_rooms": {
+        "title": "Virtual Data Rooms",
+        "description": "Secure virtual data rooms for M&A, fundraising, and due diligence. Organize and share sensitive documents with complete control."
+      },
+      "analytics": {
+        "title": "Page-by-Page Analytics",
+        "description": "Track engagement at the page level to understand what resonates with your audience. Get detailed insights on viewer behavior."
+      },
+      "watermarking": {
+        "title": "Dynamic Watermarking",
+        "description": "Protect documents with dynamic, personalized watermarks that identify each viewer. Prevent unauthorized sharing and leaks."
+      },
+      "access_control": {
+        "title": "Granular Access Control",
+        "description": "Control who can view, download, and print your documents. Set expiration dates and revoke access instantly."
+      },
+      "audit_trail": {
+        "title": "Complete Audit Trail",
+        "description": "Track every interaction with your documents. Know who viewed what, when, and for how long with comprehensive logging."
+      },
+      "enterprise_security": {
+        "title": "Enterprise Security",
+        "description": "Bank-level encryption, GDPR/HIPAA/SOC2 compliance, and zero-knowledge architecture. Your documents are protected at every level."
+      }
+    }
+  },
+  "hero_pricing": {
+    "badge": "SOC2, HIPAA & GDPR Compliant",
+    "title": "Simple, Transparent Pricing",
+    "description": "Choose the perfect plan for your team. All plans include core security features with no hidden fees. Start free and scale as you grow with enterprise-grade security and advanced analytics.",
+    "feature_no_setup": "No Setup Fees",
+    "feature_cancel": "Cancel Anytime",
+    "feature_free_trial": "14-Day Free Trial",
+    "cta_primary": "Start Free Trial",
+    "cta_secondary": "Schedule Demo"
+  },
+  "hero_enterprise": {
+    "badge": "SOC2, HIPAA & GDPR Compliant",
+    "title": "Enterprise data rooms infrastructure",
+    "description": "Start with enterprise plan and deploy DoQshare on your own infrastructure with advanced security, analytics, white-labelling and complete control.",
+    "feature_self_hosted": "Self-Hosted Deployment",
+    "feature_security": "Enterprise Security",
+    "feature_free_trial": "14-Day Free Trial",
+    "cta_primary": "Schedule a demo",
+    "cta_secondary": "Start free trial"
+  },
+  "hero_startup": {
+    "badge": "SOC2, HIPAA & GDPR Compliant",
+    "title": "Your pitch deck link.",
+    "description": "Share your pitch deck or whole data room securely with investors and track engagement in real-time. See who viewed your deck, which slides they spent time on, and optimize your fundraising strategy.",
+    "feature_track": "Track Investor Activity",
+    "feature_private": "Private to You",
+    "feature_free": "Free Plan Available",
+    "cta_primary": "Upload your pitch deck",
+    "cta_secondary": "Book a demo"
+  },
+  "hero_freelance": {
+    "title": "Professional Document Sharing for Freelancers",
+    "description": "Share proposals, contracts, and deliverables securely with clients. Track engagement, protect your work, and maintain professional standards with DoQshare's powerful document sharing platform.",
+    "feature_secure": "Secure Sharing",
+    "feature_legal": "Professional Branding",
+    "feature_collaboration": "Client Collaboration",
+    "feature_track": "Track Engagement",
+    "cta_primary": "Start Free Trial",
+    "cta_secondary": "Book a Demo"
+  },
+  "hero_docs": {
+    "badge": "API Documentation",
+    "title": "Developer Documentation",
+    "description": "Integrate DoQshare's secure document sharing, analytics, and management capabilities into your applications with our comprehensive REST API.",
+    "cta_primary": "Get Started",
+    "cta_secondary": "API Reference"
+  },
+  "common": {
+    "learn_more": "Learn More",
+    "get_started": "Get Started",
+    "contact_us": "Contact Us",
+    "read_more": "Read More",
+    "view_all": "View All",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "latest_articles": "Latest articles",
+    "view_all_articles": "View all articles",
+    "by": "By",
+    "home": "Home",
+    "share": "Share",
+    "copied": "Copied!",
+    "copy_link": "Copy Link",
+    "book_demo": "Book a Demo",
+    "schedule_demo": "Schedule a demo with DoQshare",
+    "schedule_enterprise_demo": "Schedule an enterprise demo with DoQshare",
+    "view_demo": "View Demo",
+    "schedule_enterprise_demo_button": "Schedule Enterprise Demo",
+    "toggle_pricing": "Toggle monthly or yearly pricing",
+    "subscribe_rss": "Subscribe to RSS feed",
+    "alt_texts": {
+      "analytics_dashboard": "Analytics dashboard showing document performance metrics",
+      "how_it_works": "Illustration showing how DoQshare works for secure document sharing",
+      "virtual_data_room": "Secure virtual data room for M&A and fundraising",
+      "secure_document_sharing": "Secure document sharing platform with advanced analytics",
+      "blog_post_image": "Blog post featured image",
+      "customer_logo": "Customer company logo",
+      "trusted_by": "Trusted by leading enterprises"
+    },
+    "related_pages": {
+      "title": "Related Pages",
+      "description": "Explore more about DoQshare",
+      "learn_more": "Learn more"
+    },
+    "trusted_by_leaders": "Trusted by market leaders"
+  },
+  "testimonials1": {
+    "title": "Trusted by thousands of businesses worldwide",
+    "list": [
+      {
+        "title": "Best decision",
+        "content": "DoQshare's tracking features were instrumental in our fundraising success. We could see exactly which investors were engaging with our pitch deck, allowing us to focus on the most interested prospects.",
+        "author": "Martin Patz",
+        "avatar": "https://cdn.shadcnstudio.com/ss-assets/avatar/avatar-1.png?width=40&height=40&format=auto"
+      },
+      {
+        "title": "Game changer",
+        "content": "The security and analytics features are unmatched. We switched from our previous solution and haven't looked back. The custom domain feature gives us a professional edge.",
+        "author": "Kim Grey",
+        "avatar": "https://cdn.shadcnstudio.com/ss-assets/avatar/avatar-2.png?width=40&height=40&format=auto"
+      },
+      {
+        "title": "Seamless transition",
+        "content": "Our transition to DoQshare was seamless. The page-by-page analytics help us understand how startups present their materials, and the security features give us confidence.",
+        "author": "Alex Chen",
+        "avatar": "https://cdn.shadcnstudio.com/ss-assets/avatar/avatar-3.png?width=40&height=40&format=auto"
+      },
+      {
+        "title": "Solved our pain point",
+        "content": "DoQshare solved a major pain point for us. The team actually listens to user feedback and builds features we need. The real-time tracking and security features are exactly what we needed.",
+        "author": "Sarah Martinez",
+        "avatar": "https://cdn.shadcnstudio.com/ss-assets/avatar/avatar-4.png?width=40&height=40&format=auto"
+      },
+      {
+        "title": "Enterprise ready",
+        "content": "The enterprise security features and compliance certifications give us peace of mind. We can confidently share sensitive documents knowing they're protected at every level.",
+        "author": "David Kim",
+        "avatar": "https://cdn.shadcnstudio.com/ss-assets/avatar/avatar-1.png?width=40&height=40&format=auto"
+      },
+      {
+        "title": "Outstanding analytics",
+        "content": "The page-by-page analytics are outstanding. We can see exactly which sections of our documents get the most attention, helping us improve our presentations continuously.",
+        "author": "Emma Wilson",
+        "avatar": "https://cdn.shadcnstudio.com/ss-assets/avatar/avatar-2.png?width=40&height=40&format=auto"
+      },
+      {
+        "title": "Perfect for M&A",
+        "content": "DoQshare has been perfect for our M&A transactions. The virtual data room features combined with detailed tracking help us manage due diligence efficiently and securely.",
+        "author": "Michael Brown",
+        "avatar": "https://cdn.shadcnstudio.com/ss-assets/avatar/avatar-3.png?width=40&height=40&format=auto"
+      },
+      {
+        "title": "Intuitive interface",
+        "content": "The interface is so intuitive that our team adopted it immediately. No training needed, and the security features work seamlessly in the background without getting in the way.",
+        "author": "Lisa Anderson",
+        "avatar": "https://cdn.shadcnstudio.com/ss-assets/avatar/avatar-4.png?width=40&height=40&format=auto"
+      },
+      {
+        "title": "Dynamic watermarking",
+        "content": "The dynamic watermarking feature is brilliant. We can track exactly who shared documents externally, giving us complete control over our sensitive information.",
+        "author": "James Taylor",
+        "avatar": "https://cdn.shadcnstudio.com/ss-assets/avatar/avatar-1.png?width=40&height=40&format=auto"
+      },
+      {
+        "title": "ROI is clear",
+        "content": "The ROI is clear. We've closed more deals faster since using DoQshare. The analytics help us prioritize leads, and the security features build trust with our clients.",
+        "author": "Rachel Green",
+        "avatar": "https://cdn.shadcnstudio.com/ss-assets/avatar/avatar-2.png?width=40&height=40&format=auto"
+      },
+      {
+        "title": "Best investment",
+        "content": "Switching to DoQshare was one of the best investments we made. The combination of security, analytics, and ease of use is unmatched in the market.",
+        "author": "Tom Johnson",
+        "avatar": "https://cdn.shadcnstudio.com/ss-assets/avatar/avatar-3.png?width=40&height=40&format=auto"
+      },
+      {
+        "title": "Exceeded expectations",
+        "content": "DoQshare exceeded our expectations. The support team is responsive, the features are powerful, and the platform scales perfectly with our growing business.",
+        "author": "Sophie White",
+        "avatar": "https://cdn.shadcnstudio.com/ss-assets/avatar/avatar-4.png?width=40&height=40&format=auto"
+      },
+      {
+        "title": "Compliance made easy",
+        "content": "GDPR, HIPAA, and SOC2 compliance made easy. We can confidently share documents knowing we're meeting all regulatory requirements without the complexity.",
+        "author": "Robert Lee",
+        "avatar": "https://cdn.shadcnstudio.com/ss-assets/avatar/avatar-1.png?width=40&height=40&format=auto"
+      },
+      {
+        "title": "Time saver",
+        "content": "DoQshare saves us hours every week. The automated tracking and reporting features eliminate manual work, and the secure sharing process is streamlined.",
+        "author": "Amanda Clark",
+        "avatar": "https://cdn.shadcnstudio.com/ss-assets/avatar/avatar-2.png?width=40&height=40&format=auto"
+      },
+      {
+        "title": "Highly recommend",
+        "content": "I highly recommend DoQshare to any business handling sensitive documents. The security is top-notch, the analytics are invaluable, and the user experience is excellent.",
+        "author": "Chris Moore",
+        "avatar": "https://cdn.shadcnstudio.com/ss-assets/avatar/avatar-3.png?width=40&height=40&format=auto"
+      }
+    ]
+  },
+  "pricing_calculator": {
+    "title": "DoQshare pricing calculator",
+    "description": "Calculate the right price for your team and understand how pricing is formed.",
+    "users": "Users",
+    "selected_users": "Selected: {{count}} users",
+    "contract_term": "Contract Term",
+    "terms": {
+      "month": "1 month",
+      "six_months": "6 months",
+      "year": "1 year"
+    },
+    "data_rooms": "Data Rooms",
+    "options": {
+      "none": "No Data Rooms",
+      "single": "1 Data Room",
+      "unlimited": "Unlimited Data Rooms"
+    },
+    "per_month": "/per month",
+    "billed_yearly": "billed yearly",
+    "get_started": "Get Started"
+  },
+  "pricing_comparator": {
+    "title": "Compare features",
+    "description": "See exactly what's included in each plan. All plans include core security features with no hidden fees.",
+    "monthly": "Monthly",
+    "annually": "Annually",
+    "save_up_to": "Save up to 35%",
+    "columns": {
+      "free": "Free",
+      "pro": "Pro",
+      "business": "Business",
+      "data_rooms": "Data Rooms",
+      "data_rooms_plus": "Data Rooms Plus"
+    },
+    "buttons": {
+      "start_sharing": "Start sharing",
+      "choose_pro": "Choose Pro",
+      "choose_business": "Choose Business",
+      "create_data_rooms": "Create Data Rooms",
+      "create_data_rooms_plus": "Create Data Rooms Plus"
+    },
+    "sections": {
+      "analytics": "Document Analytics and Tracking",
+      "links": "Link Settings",
+      "data_rooms": "Data Rooms and Documents",
+      "branding": "Custom Branding",
+      "other": "Other Features",
+      "support": "Support"
+    },
+    "inline_values": {
+      "unlimited_custom_domains_datarooms_plus": "Unlimited custom domains for data rooms",
+      "white_labeling_addon": "Add-on: Full white-labeling",
+      "file_requests_permissions": "File requests with permissions",
+      "qa_module_custom_permissions": "Q&A module with custom permissions",
+      "support_48h": "48h support",
+      "support_24h": "24h support",
+      "support_self_hosting": "Support with self-hosting",
+      "dedicated_account_manager": "Dedicated account manager",
+      "up_to_20_views": "up to 20 last views",
+      "up_to_1000_views": "up to 1000 last views",
+      "retention_30_days": "30-day analytics retention",
+      "retention_1_year": "1-year analytics retention",
+      "retention_2_years": "2-year analytics retention",
+      "retention_3_years": "3-year analytics retention",
+      "documents_50": "50 documents",
+      "documents_300": "300 documents",
+      "unlimited_encrypted_storage": "Unlimited encrypted storage",
+      "folders_first_level": "on first level",
+      "unlimited_light_datarooms": "Unlimited light datarooms",
+      "automatic_file_indexing": "Automatic file indexing",
+      "users_1": "1 user",
+      "users_3": "3 users",
+      "users_5": "5 users"
+    }
+  },
+  "pricing_plans_short": {
+    "title": "Choose the perfect plan for your team",
+    "description": "Start free and scale as you grow. All plans include core security features with no hidden fees or setup costs.",
+    "monthly": "Monthly",
+    "annually": "Annually",
+    "save_up_to": "Save up to 35%",
+    "most_popular": "Most Popular",
+    "best_offer": "Best offer",
+    "buttons": {
+      "pro_monthly": "Upgrade to Pro Monthly",
+      "business_monthly": "Upgrade to Business Monthly",
+      "data_rooms_monthly": "Upgrade to Data Rooms Monthly",
+      "data_rooms_plus_monthly": "Upgrade Data Rooms Plus Monthly",
+      "pro_yearly": "Upgrade to Pro Yearly",
+      "business_yearly": "Upgrade to Business Yearly",
+      "data_rooms_yearly": "Upgrade to Data Rooms Yearly",
+      "data_rooms_plus_yearly": "Upgrade Data Rooms Plus Yearly"
+    },
+    "additional_info": "All plans include unlimited viewers and page by page document analytics",
+    "enterprise_cta": "View Enterprise Plans",
+    "sales_cta": "Contact Sales"
+  },
+  "stats2": {
+    "badge": "Compliance",
+    "title": "Compliance & Data Protection",
+    "description": "Stay compliant with privacy and healthcare regulations across multiple jurisdictions. Our zero-knowledge architecture ensures we cannot access your documents - your data remains yours, always.",
+    "standards": {
+      "soc2": {
+        "name": "SOC 2",
+        "description": "Service Organization Control compliance with commitment to full security and data protection."
+      },
+      "hipaa": {
+        "name": "HIPAA",
+        "description": "Healthcare industry specific compliance with full data protection and privacy monitoring."
+      },
+      "gdpr": {
+        "name": "GDPR",
+        "description": "Full compliance with European General Data Protection Regulation requirements."
+      },
+      "ccpa": {
+        "name": "CCPA",
+        "description": "California Consumer Privacy Act compliance for data protection and privacy rights."
+      },
+      "pipeda": {
+        "name": "PIPEDA",
+        "description": "Personal Information Protection and Electronic Documents Act compliance for Canadian privacy."
+      },
+      "loi25": {
+        "name": "Loi 25",
+        "description": "Quebec's Law 25 compliance for modern privacy and data protection requirements."
+      }
+    }
+  },
+  "faq1": {
+    "badge": "FAQ",
+    "title": "Frequently asked questions",
+    "description": "Everything you need to know about DoQshare. Can't find the answer you're looking for? Please reach out to our friendly team.",
+    "button": "Book a Demo",
+    "faqs": [
+      {
+        "question": "How secure is DoQshare?",
+        "answer": "DoQshare uses bank-level AES-256 encryption for all documents. We're GDPR, HIPAA, and SOC2 compliant, ensuring your sensitive documents meet the highest security standards. All data is encrypted both in transit and at rest."
+      },
+      {
+        "question": "Can I track who viewed my documents?",
+        "answer": "Yes! DoQshare provides detailed analytics including who viewed your documents, which pages they spent time on, when they accessed them, and for how long. You get page-by-page insights to understand engagement patterns."
+      },
+      {
+        "question": "What file types are supported?",
+        "answer": "DoQshare supports PDFs, Word documents, PowerPoint presentations, Excel spreadsheets, images, and more. Files are automatically optimized for secure sharing while maintaining quality."
+      },
+      {
+        "question": "Can I revoke access to shared documents?",
+        "answer": "Absolutely. You can revoke access to any shared document instantly, set expiration dates, require passwords, and control download permissions. You maintain complete control over your documents at all times."
+      },
+      {
+        "question": "Is there a free trial?",
+        "answer": "Yes! We offer a 14-day free trial with full access to all features. No credit card required. You can start sharing and tracking documents immediately."
+      },
+      {
+        "question": "How does DoQshare compare to Docsend or SharePoint?",
+        "answer": "DoQshare offers better analytics than Docsend with page-by-page tracking, and is easier to use than SharePoint while maintaining enterprise-grade security. We combine the best of both worlds: powerful analytics and enterprise security."
+      },
+      {
+        "question": "Can I use my own domain?",
+        "answer": "Yes! Enterprise and Business plans include custom domain support, allowing you to share documents using your own branded domain for a professional appearance."
+      },
+      {
+        "question": "What kind of support do you offer?",
+        "answer": "We offer email support for all plans, with priority 24/7 support and dedicated account managers for Enterprise customers. Our support team is available to help you get the most out of DoQshare."
+      }
+    ]
+  },
+  "logo_cloud": {
+    "text": "Powering the best teams"
+  },
+  "features_page": {
+    "metadata": {
+      "title": "DoQshare Features - Advanced Analytics, Security and Complete Compliance",
+      "description": "Explore all DoQshare features: real-time analytics, enterprise-grade document security, GDPR/HIPAA/SOC2 compliance, virtual data rooms, dynamic watermarking, granular access control and complete audit trail.",
+      "keywords": [
+        "DoQshare features",
+        "document analytics",
+        "secure document sharing",
+        "data room features",
+        "document tracking",
+        "watermarking",
+        "access control",
+        "audit trail",
+        "compliance features",
+        "enterprise features",
+        "document security features",
+        "analytics features",
+        "real-time tracking",
+        "document management",
+        "secure sharing features",
+        "GDPR features",
+        "HIPAA features",
+        "SOC2 features",
+        "virtual data room",
+        "document protection"
+      ]
+    },
+    "cta_title": "Ready to experience these features?",
+    "cta_description": "Start your 14-day free trial today. No credit card required.",
+    "cta_primary": "Start Free Trial",
+    "cta_secondary": "Contact Sales",
+    "cta_footer": "No credit card required • 14-day free trial • Cancel anytime"
+  },
+  "features_component": {
+    "title": "Powerful features for secure document sharing",
+    "description": "Everything you need to share documents securely, track engagement, and maintain complete control.",
+    "features": {
+      "analytics": {
+        "title": "Page-by-Page Analytics",
+        "description": "Track engagement at the page level to understand what resonates with your audience. Get detailed insights on viewer behavior."
+      },
+      "security": {
+        "title": "Enterprise Security",
+        "description": "Bank-level encryption, GDPR/HIPAA/SOC2 compliance, and zero-knowledge architecture. Your documents are protected at every level."
+      },
+      "access_control": {
+        "title": "Granular Access Control",
+        "description": "Control who can view, download, and print your documents. Set expiration dates and revoke access instantly."
+      },
+      "watermarking": {
+        "title": "Dynamic Watermarking",
+        "description": "Protect documents with dynamic, personalized watermarks that identify each viewer. Prevent unauthorized sharing and leaks."
+      },
+      "audit_trail": {
+        "title": "Complete Audit Trail",
+        "description": "Track every interaction with your documents. Know who viewed what, when, and for how long with comprehensive logging."
+      },
+      "data_rooms": {
+        "title": "Virtual Data Rooms",
+        "description": "Secure virtual data rooms for M&A, fundraising, and due diligence. Organize and share sensitive documents with complete control."
+      },
+      "screenshot_protection": {
+        "title": "Screenshot Protection",
+        "description": "Prevent unauthorized screenshots and screen recording. Protect your sensitive documents from being captured or shared without permission."
+      },
+      "nda": {
+        "title": "One-Click NDA",
+        "description": "Require viewers to accept NDAs and agreements before accessing sensitive documents. Streamline your compliance process with automated agreements."
+      },
+      "ai_assistant": {
+        "title": "AI Document Assistant",
+        "description": "Chat with your documents and data rooms using large language models. Get instant answers and insights from your document content."
+      },
+      "custom_domain": {
+        "title": "Custom Domain & Branding",
+        "description": "Connect your domain and bring your own brand to customize your viewers' experience. Total brand customization for a professional appearance."
+      },
+      "password_protection": {
+        "title": "Password Protection",
+        "description": "Add an extra layer of security with password protection. Control access to your documents with strong password requirements."
+      },
+      "notifications": {
+        "title": "Real-Time Notifications",
+        "description": "Receive instant notifications when important stakeholders engage with your content. Stay informed about document activity in real-time."
+      }
+    }
+  },
+  "testimonials_component": {
+    "title": "Trusted by thousands of businesses worldwide",
+    "description": "Real stories from companies using DoQshare to secure documents, track engagement, and close more deals",
+    "at": "at",
+    "title_security": "Trusted by companies worldwide",
+    "description_security": "Join thousands of teams using DoQshare to secure documents, track engagement, and close more deals. See what our customers have to say.",
+    "list": [
+      {
+        "id": 1,
+        "name": "Martin Patz",
+        "designation": "Founder & CEO",
+        "company": "Differential Bio",
+        "testimonial": "We closed our Series A faster thanks to DoQshare. Seeing which investors spent time on specific slides helped us prioritize follow-ups.",
+        "avatar": "https://cdn.shadcnstudio.com/ss-assets/avatar/avatar-1.png?width=40&height=40&format=auto"
+      },
+      {
+        "id": 2,
+        "name": "Kim Grey",
+        "designation": "Head of Investor Relations",
+        "company": "Fabric VC",
+        "testimonial": "GDPR and SOC2 compliance out of the box. Our legal team approved DoQshare in days, not weeks. Game changer for us.",
+        "avatar": "https://cdn.shadcnstudio.com/ss-assets/avatar/avatar-2.png?width=40&height=40&format=auto"
+      },
+      {
+        "id": 3,
+        "name": "Alex Chen",
+        "designation": "Managing Partner",
+        "company": "Unify Ventures",
+        "testimonial": "The dynamic watermarking feature prevents leaks. We know exactly who shared documents externally. Complete control.",
+        "avatar": "https://cdn.shadcnstudio.com/ss-assets/avatar/avatar-3.png?width=40&height=40&format=auto"
+      },
+      {
+        "id": 4,
+        "name": "Sarah Martinez",
+        "designation": "Founder",
+        "company": "Townhall Network",
+        "testimonial": "Page-by-page analytics revealed which sections resonated most. We redesigned our pitch deck based on real data, not guesses.",
+        "avatar": "https://cdn.shadcnstudio.com/ss-assets/avatar/avatar-4.png?width=40&height=40&format=auto"
+      },
+      {
+        "id": 5,
+        "name": "David Kim",
+        "designation": "VP of Sales",
+        "company": "Enterprise Solutions",
+        "testimonial": "Custom domain and white-labeling made DoQshare feel native to our brand. Clients never know they're using a third-party tool.",
+        "avatar": "https://cdn.shadcnstudio.com/ss-assets/avatar/avatar-1.png?width=40&height=40&format=auto"
+      },
+      {
+        "id": 6,
+        "name": "Emma Wilson",
+        "designation": "Legal Counsel",
+        "company": "M&A Partners",
+        "testimonial": "Our data room handled 200+ documents across 15 parties. Zero security incidents. The audit trail saved us during negotiations.",
+        "avatar": "https://cdn.shadcnstudio.com/ss-assets/avatar/avatar-2.png?width=40&height=40&format=auto"
+      },
+      {
+        "id": 7,
+        "name": "James Taylor",
+        "designation": "CFO",
+        "company": "TechScale Inc",
+        "testimonial": "Revoking access instantly when deals fall through is crucial. DoQshare gives us that control. No more waiting for support tickets.",
+        "avatar": "https://cdn.shadcnstudio.com/ss-assets/avatar/avatar-3.png?width=40&height=40&format=auto"
+      },
+      {
+        "id": 8,
+        "name": "Rachel Green",
+        "designation": "Investment Director",
+        "company": "Capital Ventures",
+        "testimonial": "The Q&A module streamlined our due diligence process. All questions and answers in one place, with full audit history.",
+        "avatar": "https://cdn.shadcnstudio.com/ss-assets/avatar/avatar-4.png?width=40&height=40&format=auto"
+      }
+    ]
+  },
+  "security_page": {
+    "metadata": {
+      "title": "DoQshare Security - SOC2, HIPAA, GDPR Compliance and Military-Grade Encryption",
+      "description": "Discover DoQshare's security measures: AES-256 encryption, SOC2/HIPAA/GDPR compliance, secure data centers, 2FA, SSO. Military-grade security for your sensitive documents.",
+      "keywords": [
+        "DoQshare security",
+        "AES-256 encryption",
+        "SOC2 compliance",
+        "HIPAA compliance",
+        "GDPR compliance",
+        "document security",
+        "zero-knowledge architecture",
+        "client-side encryption",
+        "secure data centers",
+        "2FA authentication",
+        "SSO security",
+        "military-grade security",
+        "document encryption",
+        "data protection",
+        "privacy by design",
+        "secure file sharing",
+        "compliance security",
+        "enterprise security",
+        "data privacy",
+        "cybersecurity"
+      ]
+    },
+    "zero_knowledge": {
+      "title": "Zero-Knowledge Architecture and Document Access",
+      "we_cannot_access_title": "We Cannot Access Your Documents",
+      "we_cannot_access_description": "DoQshare operates on a zero-knowledge architecture, meaning we have no access to your document content. Your files are encrypted client-side before being uploaded, and only you and authorized viewers can decrypt them. We cannot read, view, or access your documents, even with administrative privileges.",
+      "client_side_title": "Client-Side Encryption",
+      "client_side_description": "Documents are encrypted on your device before upload. Only you hold the decryption keys.",
+      "no_superadmin_title": "No Superadmin Access",
+      "no_superadmin_description": "Our platform has no superadmin privileges. We cannot access your documents even for support purposes.",
+      "privacy_by_design_title": "Privacy by Design",
+      "privacy_by_design_description": "Built from the ground up with privacy-first principles. Your data remains yours, always.",
+      "what_this_means": "What this means for you:",
+      "what_this_means_description": "Your documents are protected by design. We can provide analytics and tracking metadata (who viewed, when, for how long) without ever accessing the actual document content. This zero-knowledge approach ensures maximum privacy and security for your sensitive information."
+    },
+    "compliance": {
+      "title": "Compliance & Data Protection",
+      "description": "We are committed to meeting the highest standards of data protection and privacy regulations.",
+      "soc2": {
+        "title": "SOC 2 Type II",
+        "description": "Independent audit validating security controls over an extended period",
+        "content": "We meet all five Trust Service Criteria: Security, Availability, Processing Integrity, Confidentiality, and Privacy."
+      },
+      "gdpr": {
+        "title": "GDPR Compliant",
+        "description": "Full compliance with European General Data Protection Regulation",
+        "content": "EU/EEA residents have rights to access, rectification, deletion, data portability, and objection to processing."
+      },
+      "hipaa": {
+        "title": "HIPAA Compliant",
+        "description": "Healthcare industry specific compliance for sensitive medical data",
+        "content": "Specialized security measures for healthcare organizations handling protected health information."
+      },
+      "ccpa": {
+        "title": "CCPA Compliant",
+        "description": "California Consumer Privacy Act compliance for data protection",
+        "content": "California residents can learn what data we collect, request deletion, and opt out of data sharing."
+      }
+    },
+    "cta": {
+      "title": "Ready to secure your documents?",
+      "description": "Join thousands of companies who trust DoQshare with their most sensitive documents. Enterprise-grade security with zero-knowledge architecture.",
+      "primary": "Start for Free",
+      "secondary": "Contact Security Team",
+      "footer": "No credit card required • 14-day free trial • Enterprise security from day one"
+    }
+  },
+  "feature5_security": {
+    "badge": "Security & Compliance",
+    "title": "Security as DNA",
+    "description": "Our priority is your document security. We know that the key to deal success is absolute control over your data.",
+    "features": {
+      "hosting": {
+        "title": "Data Hosting Locations",
+        "description": "Your documents are stored with enterprise-grade infrastructure. Choose from multiple regions including EU, US, and more for optimal performance and compliance.",
+        "details": [
+          "GDPR-compliant hosting in EU region",
+          "US region with automatic backups",
+          "38+ global data center locations",
+          "Enterprise data residency controls"
+        ]
+      },
+      "encryption": {
+        "title": "Encryption of All Data",
+        "description": "Industry-standard encryption protects your sensitive documents at every stage. AES-256 encryption at rest and TLS 1.2+ in transit.",
+        "details": [
+          "AES-256 encryption at rest",
+          "TLS 1.2+ encryption in transit",
+          "Secure key management",
+          "Zero-knowledge architecture"
+        ]
+      },
+      "monitoring": {
+        "title": "Security Monitoring & Incident Response",
+        "description": "Continuous security monitoring with automated threat detection, incident response procedures, and 24/7 security operations.",
+        "details": [
+          "Real-time threat detection",
+          "Automated incident response",
+          "24/7 security monitoring",
+          "Regular security assessments"
+        ]
+      },
+      "permissions": {
+        "title": "Granular Security Permissions",
+        "description": "Control exactly who can access your documents and what they can do with them. File-level, folder-level, and organization-wide controls.",
+        "details": [
+          "File & folder level permissions",
+          "Allow & block lists",
+          "Document version control",
+          "Dynamic watermarks"
+        ]
+      },
+      "audit": {
+        "title": "Comprehensive Audit Trails",
+        "description": "Track every interaction with your documents for complete visibility and compliance. Real-time notifications and detailed logs.",
+        "details": [
+          "Real-time notifications",
+          "Page-by-page analytics",
+          "Viewer identification",
+          "Export capabilities"
+        ]
+      },
+      "infrastructure": {
+        "title": "Enterprise-Grade Infrastructure",
+        "description": "Built on enterprise infrastructure with regular backups, DDoS protection, SSO integration, and self-hosted options available.",
+        "details": [
+          "Regular automated backups",
+          "DDoS protection",
+          "SSO integration (SAML)",
+          "99.9% uptime SLA"
+        ]
+      }
+    }
+  },
+  "how_it_works_page": {
+    "metadata": {
+      "title": "How DoQshare Works - 3-Step Guide to Secure Document Sharing",
+      "description": "Learn how to use DoQshare in 3 simple steps: upload, secure sharing, analytics. Complete guide to get started with secure document sharing and advanced tracking. Free plan available.",
+      "keywords": [
+        "how to use DoQshare",
+        "DoQshare guide",
+        "document sharing tutorial",
+        "secure sharing steps",
+        "document tracking guide",
+        "data room setup",
+        "how to share documents",
+        "document security tutorial",
+        "DoQshare walkthrough",
+        "getting started DoQshare"
+      ]
+    },
+    "cta_title": "Sharing with DoQshare is secure, fast, and free.",
+    "cta_description": "Get started in minutes. No credit card required. Start sharing and tracking your documents today.",
+    "cta_primary": "Start for Free",
+    "cta_footer": "No credit card required • 14-day free trial • Cancel anytime"
+  },
+  "how_it_works_steps": {
+    "title": "How it works",
+    "description": "Get started with DoQshare in three simple steps. From upload to insights, we make document sharing secure and trackable in minutes, not days.",
+    "step1": {
+      "title": "Upload Your Documents",
+      "description": "Drag and drop your files or upload from your computer, Google Drive, or Dropbox",
+      "content": "Support for PDFs, Word docs, PowerPoint presentations, and more. Files are automatically optimized for sharing."
+    },
+    "step2": {
+      "title": "Share Securely",
+      "description": "Create secure links with custom permissions, passwords, and expiration dates",
+      "content": "Control who can access your documents, when they expire, and what actions viewers can take."
+    },
+    "step3": {
+      "title": "Track & Analyze",
+      "description": "Get detailed insights on who viewed your documents and for how long",
+      "content": "See page-by-page analytics, download tracking, and engagement metrics to optimize your document strategy."
+    }
+  },
+  "feature5_how_it_works": {
+    "badge": "Built for Modern Teams",
+    "title": "Share your documents with an impression that lasts",
+    "description": "Everything you need to share documents securely, track engagement, and maintain complete control. Built for modern teams who demand both security and simplicity.",
+    "features": {
+      "bulk_upload": {
+        "title": "Bulk Upload Documents",
+        "description": "Upload multiple files at once. Support for PDFs, Word docs, PowerPoint presentations, and more. Drag and drop or select from your computer."
+      },
+      "secure_links": {
+        "title": "Share via Secure Links",
+        "description": "Create secure, trackable links with custom permissions. Control who can access your documents and for how long."
+      },
+      "track_time": {
+        "title": "Track Time on Each Page",
+        "description": "Get page-by-page analytics showing exactly how long viewers spend on each page. Understand what content resonates most."
+      },
+      "data_room": {
+        "title": "Create Data Room",
+        "description": "Organize documents into secure data rooms for M&A, fundraising, or due diligence. Perfect for complex deals and transactions."
+      },
+      "custom_domain": {
+        "title": "Set Up Custom Domain and Branding",
+        "description": "Use your own domain and customize branding. Share documents with a professional, branded experience that matches your company."
+      },
+      "access_control": {
+        "title": "Fine-tune Access Control",
+        "description": "Control who can view your documents and for how long. Set passwords, expiration dates, and revoke access at any time."
+      },
+      "real_time": {
+        "title": "Real-time Insights",
+        "description": "Receive page-by-page analytics on your visitors and get notified in real-time when documents are viewed or downloaded."
+      },
+      "brand_customization": {
+        "title": "Total Brand Customization",
+        "description": "Connect your domain and bring your own brand to customize your viewers' experience. Remove DoQshare branding completely."
+      },
+      "rich_analytics": {
+        "title": "Rich Analytics",
+        "description": "Dive into detailed analytics and understand how your documents are being viewed. Export reports and track engagement over time."
+      },
+      "ai_powered": {
+        "title": "AI-powered",
+        "description": "Chat with your documents and data rooms using large language models. Get instant answers and insights from your content."
+      },
+      "self_host": {
+        "title": "Self-host",
+        "description": "DoQshare is open-source. Run it on your own infrastructure for complete control over your data and security."
+      },
+      "enterprise_security": {
+        "title": "Enterprise Security",
+        "description": "Bank-level encryption, GDPR/HIPAA/SOC2 compliance, and zero-knowledge architecture. Your documents are protected at every level."
+      }
+    }
+  },
+  "faq1_how_it_works": {
+    "badge": "FAQ",
+    "title": "Frequently asked questions",
+    "description": "Everything you need to know about using DoQshare. Can't find the answer you're looking for? Please reach out to our friendly team.",
+    "button": "Book a Demo",
+    "faqs": [
+      {
+        "question": "How do I get started with DoQshare?",
+        "answer": "Getting started is simple! Sign up for a free account, upload your first document, and create a secure link to share. No credit card required. You can start sharing and tracking documents in minutes."
+      },
+      {
+        "question": "What file types are supported?",
+        "answer": "DoQshare supports PDFs, Word documents (.docx, .doc), PowerPoint presentations (.pptx, .ppt), Excel spreadsheets, images, and more. Files are automatically optimized for secure sharing while maintaining quality."
+      },
+      {
+        "question": "How does document tracking work?",
+        "answer": "DoQshare provides page-by-page analytics showing who viewed your documents, which pages they spent time on, when they accessed them, and for how long. You get real-time notifications and detailed insights to understand engagement patterns."
+      },
+      {
+        "question": "Can I control who views my documents?",
+        "answer": "Absolutely! You can set passwords, expiration dates, require email verification, and control download permissions. You can also revoke access instantly at any time, even after sharing the link."
+      },
+      {
+        "question": "Is my data secure?",
+        "answer": "Yes! DoQshare uses bank-level AES-256 encryption for all documents. We're GDPR, HIPAA, and SOC2 compliant. Your documents are encrypted both in transit and at rest with zero-knowledge architecture, meaning we cannot access your document content."
+      },
+      {
+        "question": "Can I use my own domain?",
+        "answer": "Yes! Business and Enterprise plans include custom domain support, allowing you to share documents using your own branded domain. You can also customize branding, logos, and colors for a professional appearance."
+      },
+      {
+        "question": "How much does DoQshare cost?",
+        "answer": "DoQshare offers a free plan to get started. Paid plans start at $29/month for Pro, $79/month for Business, and $199/month for Data Rooms. All plans include a 14-day free trial. Enterprise plans are available with custom pricing."
+      },
+      {
+        "question": "Can I update my documents without changing the link?",
+        "answer": "Yes! You can update your documents without changing the link. This means you can send one link to viewers and update it as your content evolves, keeping all stakeholders informed with the latest version."
+      }
+    ]
+  },
+  "faq1_security": {
+    "badge": "FAQ",
+    "title": "Frequently asked questions",
+    "description": "Everything you need to know about DoQshare security and compliance. Can't find the answer you're looking for? Please reach out to our security team.",
+    "button": "Contact Security Team",
+    "faqs": [
+      {
+        "question": "How is my data encrypted?",
+        "answer": "DoQshare uses AES-256 encryption at rest, the same standard used by banks and government institutions. All data transmitted between your browser and our servers is encrypted using TLS 1.2+. We also implement zero-knowledge architecture, meaning we cannot access your document content even with administrative privileges."
+      },
+      {
+        "question": "Where is DoQshare hosted?",
+        "answer": "DoQshare is hosted on enterprise-grade infrastructure with multiple region options. We offer GDPR-compliant hosting in the EU region, US region hosting, and access to 38+ global data center locations. Enterprise customers can choose their preferred hosting region for data residency requirements."
+      },
+      {
+        "question": "Can I control who can view my documents?",
+        "answer": "Absolutely! DoQshare provides granular security permissions at file and folder levels. You can set allow and block lists, control document versions, apply dynamic watermarks, control downloads, require NDAs, and set password protection. You can also restrict access to specific email addresses or domains."
+      },
+      {
+        "question": "What audit data do you capture?",
+        "answer": "DoQshare captures comprehensive audit trails including real-time notifications, page-by-page analytics, viewer identification (email, location, device, browser), document access logs, download tracking, and export capabilities. All interactions are logged for compliance and reporting purposes."
+      },
+      {
+        "question": "What is the difference between using DoQshare (SaaS) and self-hosting?",
+        "answer": "DoQshare is available as both SaaS and open-source for self-hosting. The SaaS version provides managed infrastructure, automatic updates, and support. Self-hosting gives you complete control over your data and infrastructure, perfect for organizations with strict data residency requirements."
+      },
+      {
+        "question": "Do you support SSO and enterprise controls?",
+        "answer": "Yes! DoQshare supports enterprise single sign-on (SSO) with SAML integration. We also offer advanced enterprise features including organization-wide allow/deny lists, team collaboration, permission inheritance, white-labeling, and dedicated support with guaranteed response times."
+      },
+      {
+        "question": "Are you SOC 2, GDPR, and CCPA compliant?",
+        "answer": "Yes! DoQshare has achieved SOC 2 Type II certification, demonstrating our commitment to security, availability, and confidentiality. We are fully GDPR compliant for European customers and CCPA compliant for California residents. We also support HIPAA compliance for healthcare organizations."
+      },
+      {
+        "question": "Can I require an NDA before access?",
+        "answer": "Yes! DoQshare offers NDA gate functionality that requires viewers to accept NDAs and agreements before accessing sensitive documents. All NDA acceptances are recorded with auditable records, providing legal protection and compliance documentation."
+      }
+    ]
+  },
+  "faq1_features": {
+    "badge": "FAQ",
+    "title": "Frequently asked questions about features",
+    "description": "Everything you need to know about DoQshare's features and capabilities. Can't find the answer you're looking for? Please reach out to our friendly team.",
+    "button": "Book a Demo",
+    "faqs": [
+      {
+        "question": "What is page-by-page analytics?",
+        "answer": "Page-by-page analytics tracks viewer engagement at the individual page level. You can see which pages viewers spend the most time on, which pages they skip, and how they navigate through your documents. This helps you understand what content resonates most with your audience."
+      },
+      {
+        "question": "How does dynamic watermarking work?",
+        "answer": "Dynamic watermarking automatically adds personalized watermarks to each document view, displaying the viewer's name, email, and timestamp. This prevents unauthorized sharing and helps identify the source of any leaks. Watermarks are applied in real-time and cannot be removed by viewers."
+      },
+      {
+        "question": "What is granular access control?",
+        "answer": "Granular access control lets you set specific permissions for each viewer. You can control who can view, download, print, or share documents. You can also set expiration dates, require passwords, and revoke access instantly. This gives you complete control over your document security."
+      },
+      {
+        "question": "What is a virtual data room?",
+        "answer": "A virtual data room is a secure online repository for sharing sensitive documents during M&A transactions, fundraising, due diligence, or other confidential processes. DoQshare's data rooms include advanced features like Q&A modules, complete audit trails, and granular permissions for managing complex deals."
+      },
+      {
+        "question": "How does screenshot protection work?",
+        "answer": "Screenshot protection prevents viewers from taking screenshots or recording their screen while viewing documents. This is enforced at the browser level and helps protect your sensitive content from being captured and shared without permission."
+      },
+      {
+        "question": "What is the AI Document Assistant?",
+        "answer": "The AI Document Assistant allows you to chat with your documents and data rooms using large language models. You can ask questions about document content, get instant answers, and extract insights from your documents without manually searching through them."
+      },
+      {
+        "question": "Can I customize the branding of my shared documents?",
+        "answer": "Yes! Business and Enterprise plans include custom domain support and white-labeling options. You can use your own domain, customize colors, logos, and branding to make DoQshare feel native to your brand. Your viewers will see your branding, not ours."
+      },
+      {
+        "question": "What security certifications does DoQshare have?",
+        "answer": "DoQshare is GDPR, HIPAA, and SOC2 compliant. We use bank-level AES-256 encryption for all documents, implement zero-knowledge architecture where possible, and undergo regular security audits. Your documents meet the highest security standards."
+      }
+    ]
+  },
+  "feature3": {
+    "title": "The DoQshare ecosystem brings together secure document sharing",
+    "description": "Empower your team with workflows that adapt to your needs, whether you prefer secure links, data rooms, or enterprise-grade document management.",
+    "fast_title": "Fast",
+    "fast_description": "Lightning-fast document sharing and real-time analytics to help you make decisions quickly.",
+    "powerful_title": "Powerful",
+    "powerful_description": "Advanced features for document management, tracking, and collaboration for businesses of all sizes.",
+    "secure_title": "Secure",
+    "secure_description": "Enterprise-grade security with bank-level encryption, GDPR compliance, and zero-knowledge architecture.",
+    "ai_powered_title": "AI Powered",
+    "ai_powered_description": "Intelligent insights and analytics to help you understand how your documents are being used."
+  },
+  "cta1": {
+    "badge": "Get started",
+    "title": "Try our platform today!",
+    "description": "Start sharing documents securely with advanced analytics. Join thousands of businesses using DoQshare to protect sensitive information and track engagement. 14-day free trial, no credit card required.",
+    "button_call": "Jump on a call",
+    "button_signup": "Sign up here"
+  },
+  "pricing1": {
+    "badge": "Pricing",
+    "title": "Prices that make sense!",
+    "description": "Choose the plan that fits your needs. All plans include a 14-day free trial.",
+    "monthly": "Monthly",
+    "annually": "Annually",
+    "period_monthly": "/month",
+    "period_yearly": "/year",
+    "save_up_to": "Save up to 35%",
+    "most_popular": "Most Popular",
+    "best_offer": "Best offer",
+    "plans": {
+      "pro": {
+        "name": "DoQshare Pro",
+        "description": "Perfect for startups and small teams getting started with secure document sharing.",
+        "features": {
+          "documents": {
+            "title": "300 documents",
+            "description": "Store and share up to 300 documents securely."
+          },
+          "analytics": {
+            "title": "Advanced analytics",
+            "description": "Track views, engagement, and page-by-page insights."
+          },
+          "branding": {
+            "title": "Custom branding",
+            "description": "Remove DoQshare branding and add your own."
+          }
+        },
+        "button": "Sign up today"
+      },
+      "business": {
+        "name": "DoQshare Business",
+        "description": "Ideal for growing businesses that need advanced features and team collaboration.",
+        "features": {
+          "data_rooms": {
+            "title": "Unlimited data rooms",
+            "description": "Create unlimited light data rooms for your projects."
+          },
+          "domain": {
+            "title": "Custom domain",
+            "description": "Share documents using your own branded domain."
+          },
+          "screenshot": {
+            "title": "Screenshot protection",
+            "description": "Prevent unauthorized screenshots and screen recording."
+          }
+        },
+        "button": "Sign up today"
+      },
+      "data_rooms": {
+        "name": "Data Rooms",
+        "description": "Everything in Business, plus unlimited data rooms and enterprise features.",
+        "features": {
+          "unlimited": {
+            "title": "Unlimited data rooms",
+            "description": "Create unlimited data rooms for M&A, fundraising, and due diligence."
+          },
+          "watermarking": {
+            "title": "Dynamic watermarking",
+            "description": "Protect documents with dynamic watermarks that identify each viewer."
+          },
+          "permissions": {
+            "title": "Granular permissions",
+            "description": "Set detailed access permissions for users and groups."
+          }
+        },
+        "button": "Sign up today"
+      },
+      "data_rooms_plus": {
+        "name": "Data Rooms Plus",
+        "description": "For large organizations requiring maximum security and dedicated support.",
+        "features": {
+          "unlimited": {
+            "title": "Unlimited everything",
+            "description": "Unlimited documents, data rooms, and storage."
+          },
+          "support": {
+            "title": "Dedicated support",
+            "description": "Priority 24/7 support with dedicated account manager."
+          },
+          "white_label": {
+            "title": "White-labeling",
+            "description": "Full white-labeling and custom onboarding available."
+          }
+        },
+        "button": "Sign up today"
+      }
+    }
+  },
+  "footer": {
+    "description": "The modern platform for sharing and collaborating on your documents securely and efficiently.",
+    "sections": {
+      "product": "Product",
+      "solutions_for": "Solutions for",
+      "support": "Support",
+      "resources": "Resources",
+      "legal": "Legal"
+    },
+    "links": {
+      "data_room": "Data Room",
+      "enterprise": "Enterprise",
+      "page_by_page_analytics": "Page by Page Analytics",
+      "features": "Features",
+      "how_it_works": "How it Works",
+      "startups": "Startups",
+      "freelancers": "Freelancers",
+      "education": "Education",
+      "legal_data_room": "Legal Data Room",
+      "real_estate_data_room": "Real Estate Data Room",
+      "help_center": "Help Center",
+      "contact": "Contact",
+      "security": "Security",
+      "blog": "Blog",
+      "pricing": "Pricing",
+      "privacy": "Privacy",
+      "terms": "Terms",
+      "cookies": "Cookies"
+    },
+    "copyright": "© 2026 DoQshare. All rights reserved."
+  },
+  "analytics_page": {
+    "metadata": {
+      "title": "DoQshare Document Analytics - Page by Page Tracking & Insights",
+      "description": "Get detailed insights into how your documents are being viewed and shared. Track page views, time spent, viewer engagement, geographic data, and device information with DoQshare's powerful analytics.",
+      "keywords": [
+        "document analytics",
+        "page by page analytics",
+        "document tracking",
+        "viewer analytics",
+        "document insights",
+        "engagement tracking",
+        "document metrics",
+        "analytics dashboard",
+        "time tracking",
+        "geographic analytics",
+        "device tracking",
+        "real-time analytics",
+        "document performance",
+        "viewer behavior",
+        "document statistics"
+      ]
+    },
+    "cta_title": "Ready to track your document performance?",
+    "cta_description": "Get detailed insights into document performance and optimize your sharing strategy. Start tracking today.",
+    "cta_primary": "Start for free",
+    "cta_footer": "No credit card required • 14-day free trial • Cancel anytime"
+  },
+  "freelance_page": {
+    "metadata": {
+      "title": "DoQshare for Freelancers - Secure Document Sharing for Professional Services",
+      "description": "Share legal documents, proposals, and contracts securely with clients. Track engagement, protect sensitive information, and maintain professional standards. Perfect for freelancers, consultants, and professional services.",
+      "keywords": [
+        "freelancer document sharing",
+        "professional services",
+        "legal document sharing",
+        "secure document sharing",
+        "freelance tools",
+        "client document sharing",
+        "contract sharing",
+        "proposal sharing",
+        "consultant tools",
+        "document security",
+        "client collaboration",
+        "professional document management",
+        "secure file sharing",
+        "freelance platform",
+        "document tracking",
+        "client portal",
+        "professional services platform",
+        "secure collaboration",
+        "document protection",
+        "freelance workflow"
+      ]
+    },
+    "benefits": {
+      "title": "Why Freelancers Choose DoQshare",
+      "description": "DoQshare helps freelancers share proposals, contracts, and deliverables professionally while protecting their work and tracking client engagement. Built for independent professionals who value security, professionalism, and client relationships.",
+      "features": {
+        "professional_sharing": {
+          "title": "Professional document sharing",
+          "description": "Share proposals, quotes, contracts, and deliverables with branded links. Impress clients with a professional presentation that reflects your expertise."
+        },
+        "engagement_tracking": {
+          "title": "Track client engagement",
+          "description": "Know exactly when clients view your proposals, which sections they focus on, and how long they spend reviewing your work. Use insights to improve your pitches and close more deals."
+        },
+        "protect_work": {
+          "title": "Protect your intellectual property",
+          "description": "Use dynamic watermarking, password protection, and access controls to prevent unauthorized sharing of your proposals, designs, and creative work."
+        },
+        "client_collaboration": {
+          "title": "Streamline client collaboration",
+          "description": "Share project deliverables, get feedback, and maintain organized communication. Control who can view, download, or print your documents."
+        },
+        "time_saving": {
+          "title": "Save time and close deals faster",
+          "description": "Track when clients open your proposals to follow up at the right moment. Understand what resonates to tailor your approach and increase conversion rates."
+        },
+        "professional_branding": {
+          "title": "Build your professional brand",
+          "description": "Use custom domains and branded links to present a polished image. Stand out from competitors with enterprise-grade tools at freelance-friendly prices."
+        }
+      },
+      "button": "Start Free Trial"
+    },
+    "how_it_works": {
+      "title": "How DoQshare Works for Freelancers",
+      "description": "Get started in minutes. Upload your documents, share with clients, and track engagement—all from one simple platform designed for independent professionals.",
+      "steps": {
+        "upload": {
+          "title": "Upload your documents",
+          "description": "Upload proposals, contracts, deliverables, or any professional documents. Support for PDFs, presentations, and more."
+        },
+        "share": {
+          "title": "Share with clients",
+          "description": "Generate secure, branded links to share with clients. Set passwords, expiration dates, and control access permissions."
+        },
+        "track": {
+          "title": "Track engagement & follow up",
+          "description": "Get notified when clients view your documents. See which sections they focus on and use insights to improve your pitches."
+        }
+      }
+    },
+    "cta": {
+      "title": "Start Sharing Professionally Today",
+      "description": "Join thousands of freelancers using DoQshare to share documents securely, track engagement, and close more deals. Free plan available.",
+      "button": "Start Free Trial",
+      "footer": "No credit card required • Free plan available • 14-day free trial"
+    }
+  },
+  "feature5_analytics": {
+    "badge": "Powerful Analytics Features",
+    "title": "Everything you need to understand document performance",
+    "description": "Track every aspect of document viewing sessions with detailed analytics. Monitor viewer behavior, document status, and technical details in real-time.",
+    "features": {
+      "page_analytics": {
+        "title": "Page-by-Page Analytics",
+        "description": "Track which pages are viewed most often and how long readers spend on each page. Understand what content resonates most with your audience.",
+        "details": [
+          "Time spent per page",
+          "Version history tracking",
+          "Page-by-page completion",
+          "Data room association"
+        ]
+      },
+      "time_tracking": {
+        "title": "Time Tracking",
+        "description": "See how long viewers spend reading your documents and identify the most engaging content. Track engagement duration and reading patterns.",
+        "details": [
+          "View duration tracking",
+          "Reading time analysis",
+          "Engagement metrics",
+          "Session timing data"
+        ]
+      },
+      "viewer_insights": {
+        "title": "Viewer Insights",
+        "description": "Get detailed information about your document viewers, including their roles and organizations. Understand who is engaging with your content.",
+        "details": [
+          "Viewer identification",
+          "Role and organization data",
+          "Verified visitor status",
+          "Contact information"
+        ]
+      },
+      "geographic_data": {
+        "title": "Geographic Data",
+        "description": "Track where your documents are being accessed from around the world. Understand viewer locations and optimize content for different regions.",
+        "details": [
+          "Country-level tracking",
+          "City-level analytics",
+          "Regional insights",
+          "Location-based optimization"
+        ]
+      },
+      "device_information": {
+        "title": "Device Information",
+        "description": "Understand how viewers are accessing your documents across different devices and platforms. Optimize your content for the right devices.",
+        "details": [
+          "Device type tracking",
+          "OS name and version",
+          "Browser information",
+          "Screen resolution data"
+        ]
+      },
+      "real_time_updates": {
+        "title": "Real-Time Updates",
+        "description": "Monitor document performance in real-time with instant analytics updates. Get notified immediately when important events occur.",
+        "details": [
+          "Live analytics dashboard",
+          "Instant notifications",
+          "Real-time viewer tracking",
+          "Immediate updates"
+        ]
+      }
+    }
+  },
+  "faq1_analytics": {
+    "badge": "FAQ",
+    "title": "Frequently asked questions",
+    "description": "Everything you need to know about document analytics. Can't find the answer you're looking for? Please reach out to our friendly team.",
+    "button": "Book a Demo",
+    "faqs": [
+      {
+        "question": "What is document analytics?",
+        "answer": "Document analytics provides detailed insights into how your documents are being viewed, shared, and engaged with. You can track page views, time spent on each page, viewer information, geographic data, and more to understand document performance and optimize your content strategy."
+      },
+      {
+        "question": "How do I track document views?",
+        "answer": "Document tracking is automatic once you share a document link through DoQshare. Every view, page access, and interaction is automatically recorded. You can access analytics through your dashboard, where you'll see real-time data on all your shared documents."
+      },
+      {
+        "question": "What information can I track?",
+        "answer": "You can track page-by-page views, time spent on each page, viewer identification (email, name, organization), geographic location (country and city), device type, operating system, browser information, download status, NDA signing, and session duration. All data is available in real-time through your analytics dashboard."
+      },
+      {
+        "question": "Is the analytics data real-time?",
+        "answer": "Yes! DoQshare provides real-time analytics updates. You can see viewer activity as it happens, receive instant notifications when documents are viewed, and monitor document performance in real-time through your dashboard."
+      },
+      {
+        "question": "Is viewer privacy protected?",
+        "answer": "Yes. While we track analytics data to help you understand document engagement, we respect viewer privacy. Viewers are identified by email when they access documents, but we comply with all privacy regulations including GDPR and CCPA. You can configure privacy settings based on your requirements."
+      },
+      {
+        "question": "How do I enable analytics?",
+        "answer": "Analytics are automatically enabled for all shared documents. Simply share a document link through DoQshare, and analytics tracking begins immediately. No additional setup or configuration is required. You can access analytics through your dashboard at any time."
+      },
+      {
+        "question": "Which plan includes analytics?",
+        "answer": "All DoQshare plans include analytics features. The free plan includes basic analytics, while Pro, Business, and Data Rooms plans include advanced analytics with more detailed insights, export capabilities, and longer data retention periods."
+      },
+      {
+        "question": "Can I export analytics data?",
+        "answer": "Yes! Business and Data Rooms plans include export capabilities. You can export analytics data in CSV format for further analysis, reporting, or integration with other tools. Export includes all tracked metrics including views, time spent, viewer information, and geographic data."
+      }
+    ]
+  },
+  "data_room_page": {
+    "metadata": {
+      "title": "DoQshare Data Room - Secure Virtual Data Room for Due Diligence",
+      "description": "Create your secure virtual data room with DoQshare. Due diligence, fundraising, M&A, investment rounds. Advanced analytics, granular access control, GDPR/HIPAA/SOC2 compliance. Modern alternative to traditional data rooms.",
+      "keywords": [
+        "virtual data room",
+        "data room",
+        "due diligence",
+        "fundraising",
+        "M&A",
+        "merger acquisition",
+        "investment rounds",
+        "investors",
+        "secure data room",
+        "data room compliance",
+        "VDR",
+        "investor relations",
+        "document management",
+        "secure sharing",
+        "deal room",
+        "transaction room",
+        "audit trail",
+        "watermarking",
+        "access control"
+      ]
+    },
+    "cta_title": "Ready to create your secure data room?",
+    "cta_description": "Start building your data room today with advanced security and analytics features.",
+    "cta_primary": "Create Data Room",
+    "cta_secondary": "Start free trial"
+  },
+  "feature5_data_room": {
+    "badge": "Data Room Features",
+    "title": "All essential data room features",
+    "description": "Everything you need for secure document sharing, due diligence, and deal management. Built for M&A, fundraising, and enterprise transactions.",
+    "features": {
+      "unlimited_data_rooms": {
+        "title": "Unlimited Data Rooms",
+        "description": "Create as many virtual data rooms as needed for your M&A deals, fundraising rounds, and due diligence processes."
+      },
+      "advanced_analytics": {
+        "title": "Advanced Analytics",
+        "description": "Track page-by-page engagement to understand which documents and sections get the most attention from investors and stakeholders."
+      },
+      "dynamic_watermarking": {
+        "title": "Dynamic Watermarking",
+        "description": "Protect your documents with dynamic watermarks that identify each viewer, preventing unauthorized sharing and leaks."
+      },
+      "granular_permissions": {
+        "title": "Granular Permissions",
+        "description": "Set detailed access permissions for users and groups. Control who can view, download, and print specific documents."
+      },
+      "custom_branding": {
+        "title": "Custom Branding",
+        "description": "White-label your data rooms with your logo, colors, and custom domains for a professional, branded experience."
+      },
+      "nda_agreements": {
+        "title": "NDA & Agreements",
+        "description": "Require viewers to accept NDAs and agreements before accessing sensitive documents in your data room."
+      },
+      "unlimited_storage": {
+        "title": "Unlimited Storage",
+        "description": "No limits on storage capacity or file sizes. Upload large files and bulk documents securely for your deals."
+      },
+      "complete_audit_trail": {
+        "title": "Complete Audit Trail",
+        "description": "Track all viewer activities with comprehensive audit logs. Know who accessed what, when, and for how long."
+      },
+      "email_verification": {
+        "title": "Email Verification",
+        "description": "Control access with email domain verification. Ensure only authorized users from specific domains can access your data room."
+      },
+      "drag_drop_upload": {
+        "title": "Drag & Drop Upload",
+        "description": "Easy document and folder uploads with bulk actions. Upload large files and organize your data room structure effortlessly."
+      },
+      "link_controls": {
+        "title": "Link Controls",
+        "description": "Set expiry dates, password protection, and access restrictions. Control how your data room links are shared and accessed."
+      },
+      "qa_module": {
+        "title": "Q&A Module",
+        "description": "Enable Q&A functionality with custom permissions. Facilitate communication between parties during due diligence processes."
+      }
+    }
+  },
+  "data_room_comparison": {
+    "badge": "Comparison",
+    "title": "DoQshare vs. Alternatives",
+    "description": "See how DoQshare compares to SharePoint, DocSend, and iDeals for your virtual data room needs.",
+    "features": "Features",
+    "starting_price": "Starting Price",
+    "doqshare": {
+      "name": "DoQshare",
+      "description": "Modern virtual data room with advanced analytics and enterprise security.",
+      "button": "Try it"
+    },
+    "sharepoint": {
+      "name": "SharePoint",
+      "description": "Microsoft's collaboration platform with basic document sharing features.",
+      "button": "Learn more"
+    },
+    "docsend": {
+      "name": "DocSend",
+      "description": "Document sharing platform with analytics, focused on pitch deck sharing.",
+      "button": "Learn more"
+    },
+    "ideals": {
+      "name": "iDeals",
+      "description": "Traditional VDR provider with enterprise features and high pricing.",
+      "button": "Learn more"
+    },
+    "features_list": {
+      "page_by_page_analytics": "Page-by-Page Analytics",
+      "dynamic_watermarking": "Dynamic Watermarking",
+      "unlimited_data_rooms": "Unlimited Data Rooms",
+      "custom_domain": "Custom Domain",
+      "granular_permissions": "Granular Permissions",
+      "advanced_analytics": "Advanced Analytics",
+      "nda_agreements": "NDA & Agreements",
+      "qa_module": "Q&A Module",
+      "email_verification": "Email Verification",
+      "complete_audit_trail": "Complete Audit Trail",
+      "screenshot_protection": "Screenshot Protection",
+      "compliance": "GDPR/HIPAA/SOC2 Compliance"
+    },
+    "pricing": {
+      "doqshare": "$29/month",
+      "sharepoint": "$5/user/month",
+      "docsend": "$15/user/month",
+      "ideals": "Custom pricing"
+    }
+  },
+  "faq1_data_room": {
+    "badge": "FAQ",
+    "title": "Frequently asked questions",
+    "description": "Everything you need to know about DoQshare Data Rooms. Can't find the answer you're looking for? Please reach out to our friendly team.",
+    "button": "Book a Demo",
+    "faqs": [
+      {
+        "question": "What is a virtual data room?",
+        "answer": "A virtual data room (VDR) is a secure online repository for storing and sharing confidential documents during business transactions like M&A, fundraising, due diligence, and investment rounds. DoQshare provides enterprise-grade security with advanced analytics for complete control over your sensitive documents."
+      },
+      {
+        "question": "How secure is DoQshare's data room?",
+        "answer": "DoQshare uses bank-level AES-256 encryption for all documents. We're GDPR, HIPAA, and SOC2 compliant, ensuring your sensitive documents meet the highest security standards. All data is encrypted both in transit and at rest with zero-knowledge architecture."
+      },
+      {
+        "question": "Can I track who viewed documents in my data room?",
+        "answer": "Yes! DoQshare provides detailed analytics including who viewed your documents, which pages they spent time on, when they accessed them, and for how long. You get page-by-page insights to understand engagement patterns during due diligence."
+      },
+      {
+        "question": "How many data rooms can I create?",
+        "answer": "With DoQshare, you can create unlimited data rooms. Each data room can be customized with its own branding, permissions, and access controls. Perfect for managing multiple deals, fundraising rounds, or due diligence processes simultaneously."
+      },
+      {
+        "question": "Can I control access to specific documents in my data room?",
+        "answer": "Absolutely. DoQshare offers granular permissions allowing you to control who can view, download, and print specific documents. You can set expiration dates, require passwords, and revoke access instantly for any user or group."
+      },
+      {
+        "question": "What file types are supported in data rooms?",
+        "answer": "DoQshare supports PDFs, Word documents, PowerPoint presentations, Excel spreadsheets, images, and more. Files are automatically optimized for secure sharing while maintaining quality. Large files and bulk uploads are fully supported."
+      },
+      {
+        "question": "Can I use my own domain for my data room?",
+        "answer": "Yes! Enterprise and Business plans include custom domain support, allowing you to share your data room using your own branded domain for a professional appearance that matches your company branding."
+      },
+      {
+        "question": "Is there a free trial for data rooms?",
+        "answer": "Yes! We offer a 14-day free trial with full access to all data room features. No credit card required. You can start creating and sharing data rooms immediately to test all functionality."
+      }
+    ]
+  },
+  "pricing_page": {
+    "metadata": {
+      "title": "DoQshare Pricing - Transparent Plans for Secure Data Rooms",
+      "description": "Discover DoQshare's transparent pricing for secure document sharing. Free, Pro ($29/mo), Business ($79/mo), Data Rooms ($199/mo), and Data Rooms Plus ($349/mo) plans with advanced analytics, GDPR/HIPAA/SOC2 compliance. 14-day free trial, no credit card required.",
+      "keywords": [
+        "document sharing pricing",
+        "data room pricing",
+        "document security cost",
+        "DoQshare plans",
+        "enterprise pricing",
+        "free trial",
+        "document subscription",
+        "analytics pricing",
+        "data room cost",
+        "due diligence pricing",
+        "compliance pricing",
+        "watermarking cost",
+        "secure subscription",
+        "audit trail pricing",
+        "access control cost"
+      ]
+    },
+    "cta_title": "Ready to choose your plan?",
+    "cta_description": "Start with our free plan and upgrade as you grow. All plans include core features with no hidden fees.",
+    "cta_primary": "Start Free Trial",
+    "cta_secondary": "Contact Sales"
+  },
+  "pricing2": {
+    "badge": "Pricing",
+    "title": "Compare plans side by side",
+    "description": "See exactly what's included in each plan. All plans include core security features with no hidden fees.",
+    "monthly": "Monthly",
+    "annually": "Annually",
+    "period_monthly": "/month",
+    "period_yearly": "/year",
+    "save_up_to": "Save up to 35%",
+    "features_label": "Features",
+    "plans": {
+      "free": {
+        "name": "Free",
+        "description": "Perfect for getting started with basic document sharing features.",
+        "button": "Start sharing"
+      },
+      "pro": {
+        "name": "Pro",
+        "description": "Perfect for startups and small teams getting started with secure document sharing.",
+        "button": "Try it"
+      },
+      "business": {
+        "name": "Business",
+        "description": "Ideal for growing businesses that need advanced features and team collaboration.",
+        "button": "Try it"
+      },
+      "data_rooms": {
+        "name": "Data Rooms",
+        "description": "Everything in Business, plus unlimited data rooms and enterprise features.",
+        "button": "Try it"
+      },
+      "data_rooms_plus": {
+        "name": "Data Rooms Plus",
+        "description": "For large organizations requiring maximum security and dedicated support.",
+        "button": "Contact us"
+      }
+    },
+    "sections": {
+      "document_analytics": "Document Analytics and Tracking",
+      "link_settings": "Link Settings",
+      "data_rooms_documents": "Data Rooms and Documents",
+      "custom_branding": "Custom Branding",
+      "other_features": "Other Features",
+      "support": "Support"
+    },
+    "features": {
+      "unlimited_views": "Unlimited views recorded",
+      "time_spent": "Time spent on each page",
+      "real_time_feedback": "Real time feedback",
+      "versioning_tracking": "Document versioning tracking",
+      "location_tracking": "Viewer location tracking",
+      "exclude_internal": "Exclude internal visits",
+      "view_history": "Unlimited view history",
+      "analytics_retention": "Analytics retention",
+      "capture_email": "Capturing email to view",
+      "email_notifications": "Receive email notifications",
+      "password_protection": "Password protection",
+      "expiration_date": "Expiration date",
+      "allow_block_download": "Allow/block document downloading",
+      "email_verification": "Email verification",
+      "allow_block_users": "Allow/block specified users",
+      "screenshot_protection": "Screenshot protection",
+      "dynamic_watermark": "Dynamic watermark",
+      "user_groups": "User groups permissions",
+      "unlimited_documents": "Unlimited documents",
+      "unlimited_folders": "Unlimited folders",
+      "unlimited_data_rooms": "Unlimited data rooms",
+      "custom_domain": "Custom domain",
+      "bulk_upload": "Bulk upload",
+      "unlimited_users": "Unlimited users",
+      "self_hosted": "Self-hosted option",
+      "remove_branding": "Remove DoQshare branding",
+      "custom_logo": "Custom logo",
+      "custom_favicon": "Custom favicon",
+      "custom_colors": "Custom colors",
+      "custom_social_cards": "Custom social media cards",
+      "custom_domain_documents": "Custom domain for documents",
+      "feedback_question": "Feedback question on document",
+      "custom_banners": "Custom data room banners",
+      "custom_domain_data_rooms": "Custom domain for data rooms",
+      "full_white_labeling": "Full white-labeling",
+      "sso": "Single Sign-On (SSO)",
+      "notion_documents": "Notion documents",
+      "reactions": "Reactions",
+      "forms": "Forms",
+      "communication_module": "Communication module",
+      "documentation": "Documentation",
+      "email_support": "Email support",
+      "migration": "Migration from other document platform",
+      "custom_features": "Custom features support"
+    },
+    "feature_values": {
+      "up_to_20_views": "up to 20 last views",
+      "up_to_1000_views": "up to 1,000 last views",
+      "30_day_retention": "30-day analytics retention",
+      "1_year_retention": "1-year analytics retention",
+      "2_year_retention": "2-year analytics retention",
+      "3_year_retention": "3-year analytics retention",
+      "50_documents": "50 documents",
+      "300_documents": "300 documents",
+      "unlimited_encrypted": "Unlimited encrypted storage",
+      "on_first_level": "on first level",
+      "unlimited_light_datarooms": "Unlimited light datarooms",
+      "automatic_indexing": "Automatic file indexing",
+      "1_user": "1 user",
+      "3_users": "3 users",
+      "5_users": "5 users",
+      "enterprise": "Enterprise",
+      "unlimited_custom_domains": "Unlimited custom domains for data rooms",
+      "addon_white_labeling": "Add-on: Full white-labeling",
+      "file_requests": "File requests with permissions",
+      "qa_module": "Q&A module with custom permissions",
+      "48h_support": "48h support",
+      "24h_support": "24h support",
+      "support_self_hosting": "Support with self-hosting",
+      "dedicated_manager": "Dedicated account manager"
+    }
+  },
+  "faq1_pricing": {
+    "badge": "FAQ",
+    "title": "Frequently asked questions about pricing",
+    "description": "Everything you need to know about DoQshare pricing and plans. Can't find the answer you're looking for? Please reach out to our friendly team.",
+    "button": "Book a Demo",
+    "faqs": [
+      {
+        "question": "What's included in the free plan?",
+        "answer": "The free plan includes 50 documents, basic analytics, password protection, and email notifications. It's perfect for trying out DoQshare and getting started with secure document sharing."
+      },
+      {
+        "question": "Can I upgrade or downgrade my plan at any time?",
+        "answer": "Yes! You can upgrade or downgrade your plan at any time. Changes take effect immediately, and we'll prorate any charges or credits based on your billing cycle."
+      },
+      {
+        "question": "Do you offer annual billing discounts?",
+        "answer": "Yes! Annual billing saves you up to 35% compared to monthly billing. You can switch between monthly and annual billing at any time from your account settings."
+      },
+      {
+        "question": "What payment methods do you accept?",
+        "answer": "We accept all major credit cards (Visa, Mastercard, American Express) and PayPal. Enterprise customers can also arrange invoicing and wire transfers."
+      },
+      {
+        "question": "Is there a setup fee or hidden costs?",
+        "answer": "No! There are no setup fees, no hidden costs, and no surprise charges. The price you see is the price you pay. All plans include a 14-day free trial with no credit card required."
+      },
+      {
+        "question": "What happens if I exceed my plan limits?",
+        "answer": "If you exceed your plan limits, we'll notify you and give you options to upgrade. You won't lose access to your documents, but you'll need to upgrade to continue sharing new documents."
+      },
+      {
+        "question": "Can I get a refund if I'm not satisfied?",
+        "answer": "Yes! We offer a 30-day money-back guarantee. If you're not satisfied with DoQshare within the first 30 days of your paid subscription, we'll refund your payment in full."
+      },
+      {
+        "question": "Do you offer discounts for non-profits or educational institutions?",
+        "answer": "Yes! We offer special pricing for non-profit organizations and educational institutions. Please contact our sales team to learn more about our discounted rates."
+      }
+    ]
+  },
+  "enterprise_page": {
+    "metadata": {
+      "title": "DoQshare Enterprise Solutions - Advanced Security and Complete Compliance",
+      "description": "DoQshare enterprise solutions for large organizations: military-grade security, GDPR/HIPAA/SOC2 compliance, SSO, advanced integrations, dedicated 24/7 support. On-premise, private cloud or hybrid deployment. 99.9% SLA. Contact us for custom pricing.",
+      "keywords": [
+        "enterprise solutions",
+        "enterprise security",
+        "GDPR compliance enterprise",
+        "HIPAA enterprise",
+        "SOC2 enterprise",
+        "SSO enterprise",
+        "enterprise integrations",
+        "dedicated support",
+        "on-premise deployment",
+        "private cloud",
+        "enterprise document security",
+        "enterprise SLA",
+        "24/7 support",
+        "military-grade security",
+        "white label",
+        "enterprise API",
+        "enterprise audit",
+        "enterprise compliance",
+        "document governance",
+        "cloud security"
+      ]
+    },
+    "cta_title": "Ready to deploy DoQshare in your organization?",
+    "cta_description": "Contact our enterprise team to discuss your specific requirements and get a custom solution.",
+    "cta_primary": "Deploy in your organization",
+    "cta_secondary": "Start free trial"
+  },
+  "docshare_features": {
+    "title": "Enterprise features",
+    "description": "Everything you need for secure document sharing",
+    "features": {
+      "self_hosted": {
+        "title": "Self-hosted deployment",
+        "description": "Deploy on your infrastructure with full control"
+      },
+      "enterprise_security": {
+        "title": "Enterprise security",
+        "description": "SSO, audit logs, and custom security policies"
+      },
+      "team_management": {
+        "title": "Team management",
+        "description": "Granular access controls and user management"
+      },
+      "custom_integrations": {
+        "title": "Custom integrations",
+        "description": "Connect with your existing tools and workflows"
+      },
+      "document_control": {
+        "title": "Document control",
+        "description": "Advanced permissions and watermarking"
+      },
+      "access_management": {
+        "title": "Access management",
+        "description": "Fine-grained control over document access"
+      }
+    }
+  },
+  "enterprise_comparison": {
+    "title": "Select best enterprise option for your organization",
+    "description": "Enterprise plans and features",
+    "table": {
+      "feature": "Feature",
+      "enterprise_doqshare": "Enterprise DoQshare",
+      "enterprise_self_hosted": "Enterprise Self-Hosted"
+    },
+    "features": {
+      "secure_sharing": {
+        "name": "Secure document sharing",
+        "description": "Share documents securely with granular permissions"
+      },
+      "unlimited_viewers": {
+        "name": "Unlimited viewers",
+        "description": "Share your data rooms with unlimited viewers"
+      },
+      "unlimited_folders": {
+        "name": "Unlimited folders",
+        "description": "Organize documents in unlimited folder structures"
+      },
+      "multi_level_data_rooms": {
+        "name": "Multi-level data rooms",
+        "description": "Create nested data rooms with different access levels"
+      },
+      "unlimited_storage": {
+        "name": "Unlimited data storage",
+        "description": "Upload and share unlimited files"
+      },
+      "unlimited_data_rooms": {
+        "name": "Unlimited data rooms",
+        "description": "Create as many data rooms as needed"
+      },
+      "user_groups": {
+        "name": "User groups",
+        "description": "Organize users into groups for easier management"
+      },
+      "white_labeling": {
+        "name": "White-labeling",
+        "description": "Use your own domain and create full customization"
+      },
+      "analytics_export": {
+        "name": "Analytics overview & export",
+        "description": "Detailed analytics with export capabilities"
+      },
+      "sso_integration": {
+        "name": "SSO integration",
+        "description": "Single sign-on integration with your existing systems"
+      },
+      "add_on_features": {
+        "name": "Ability to add on features",
+        "description": "Ability to add on features like AI, watermarking, and more"
+      },
+      "full_data_control": {
+        "name": "Full control over data",
+        "description": "Complete control over your data and infrastructure"
+      },
+      "self_hosted_deployment": {
+        "name": "Self-hosted deployment",
+        "description": "Deploy on your own infrastructure"
+      },
+      "docker_compatibility": {
+        "name": "Docker compatibility",
+        "description": "Easy deployment with Docker containers"
+      },
+      "source_code_license": {
+        "name": "License to source code",
+        "description": "License to source code for internal customization"
+      },
+      "on_premises_support": {
+        "name": "On-premises installation support",
+        "description": "On-premises installation support"
+      },
+      "custom_sla": {
+        "name": "Custom SLA",
+        "description": "Tailored service level agreements"
+      },
+      "priority_support": {
+        "name": "Priority support",
+        "description": "24/7 priority support with dedicated account manager, and phone support"
+      },
+      "internal_use_only": {
+        "name": "Internal use only",
+        "description": "Internal use only"
+      },
+      "admin_users": {
+        "name": "Admin users included in price",
+        "description": "Ability to add on unlimited team members",
+        "value": "5 admin users"
+      }
+    },
+    "pricing": {
+      "enterprise_doqshare": {
+        "title": "Enterprise DoQshare",
+        "description": "Cloud-hosted enterprise solution",
+        "price": "Custom Pricing",
+        "price_description": "Tailored to your organization's needs",
+        "features": {
+          "cloud_hosted": {
+            "title": "Cloud-hosted solution",
+            "description": "No infrastructure management required"
+          },
+          "full_features": {
+            "title": "Full feature access",
+            "description": "All enterprise features included"
+          },
+          "priority_support": {
+            "title": "Priority support",
+            "description": "24/7 dedicated account manager"
+          },
+          "custom_integrations": {
+            "title": "Custom integrations",
+            "description": "SSO, API, and more"
+          }
+        },
+        "button": "Contact Sales"
+      },
+      "enterprise_self_hosted": {
+        "title": "Enterprise Self-Hosted",
+        "description": "Complete control with on-premises deployment",
+        "badge": "Most Secure",
+        "price": "Custom Pricing",
+        "price_description": "Tailored to your organization's needs",
+        "features": {
+          "on_premises": {
+            "title": "On-premises deployment",
+            "description": "Deploy on your own infrastructure"
+          },
+          "source_code": {
+            "title": "Full source code access",
+            "description": "License to customize internally"
+          },
+          "data_control": {
+            "title": "Complete data control",
+            "description": "Your data never leaves your infrastructure"
+          },
+          "custom_sla": {
+            "title": "Custom SLA",
+            "description": "Tailored service level agreements"
+          }
+        },
+        "button": "Contact Sales"
+      }
+    }
+  },
+  "enterprise_faq": {
+    "badge": "FAQ",
+    "title": "Frequently asked questions",
+    "description": "Everything you need to know about Enterprise. Can't find the answer you're looking for? Please reach out to our friendly team.",
+    "button": "Book a Demo",
+    "faqs": [
+      {
+        "question": "What is DoQshare Enterprise?",
+        "answer": "DoQshare Enterprise is our advanced solution designed for large organizations that need enhanced security, compliance, and administrative controls. It includes features like SSO integration, advanced analytics, white-labeling, self-hosted deployment options, and dedicated support."
+      },
+      {
+        "question": "How is Enterprise different from the cloud version?",
+        "answer": "Enterprise includes advanced features like SSO integration, custom branding, priority support, dedicated account management, and enhanced security controls. It also offers self-hosted deployment options for organizations that need complete control over their data and infrastructure. Enterprise plans include unlimited data rooms, storage, and viewers."
+      },
+      {
+        "question": "Can we customize the security settings?",
+        "answer": "Yes, Enterprise customers have access to advanced security configurations including custom password policies, IP restrictions, session management, and comprehensive audit logging. Self-hosted customers have complete control over all security settings and can implement custom security policies tailored to their requirements."
+      },
+      {
+        "question": "Do you offer deployment support?",
+        "answer": "Yes, we provide comprehensive deployment support for both cloud and self-hosted Enterprise customers. This includes migration assistance, configuration guidance, Docker deployment support, on-premises installation assistance, and training for your team."
+      },
+      {
+        "question": "What kind of support is included?",
+        "answer": "Enterprise customers receive priority support with dedicated account managers, 24/7 phone support, and faster response times. Self-hosted customers also get deployment support, ongoing maintenance assistance, and access to source code licenses for internal customization."
+      },
+      {
+        "question": "Can we get a custom SLA?",
+        "answer": "Yes, we offer custom Service Level Agreements for Enterprise customers based on your specific requirements. This includes uptime guarantees (typically 99.9% or higher), response times, performance metrics, and tailored support agreements to meet your organization's needs."
+      },
+      {
+        "question": "What is included in self-hosted deployment?",
+        "answer": "Self-hosted Enterprise includes Docker compatibility for easy deployment, license to source code for internal customization, on-premises installation support, full control over your data and infrastructure, and the ability to deploy on your own servers or private cloud environment."
+      },
+      {
+        "question": "How does white-labeling work?",
+        "answer": "White-labeling allows you to fully customize the DoQshare interface with your own branding. This includes custom domain support, logo replacement, color schemes, email templates, and complete interface customization. Your users will see your brand, not ours, creating a seamless experience."
+      }
+    ]
+  },
+  "about_page": {
+    "hero": {
+      "title": "About DoQshare",
+      "description": "We're on a mission to revolutionize how teams share, track, and secure their most important documents."
+    },
+    "mission": {
+      "title": "Our Mission",
+      "paragraph1": "At DoQshare, we believe that document security shouldn't come at the cost of usability. We're building the future of secure document sharing, where every interaction is tracked, every access is controlled, and every deal is protected.",
+      "paragraph2": "Our platform empowers teams to share documents with confidence, knowing that their sensitive information is protected by enterprise-grade security while maintaining the simplicity that modern teams demand."
+    },
+    "numbers": {
+      "title": "By the Numbers",
+      "companies": "Companies",
+      "documents": "Documents",
+      "links_viewed": "Links Viewed",
+      "countries": "Countries"
+    },
+    "values": {
+      "title": "Our Values",
+      "security_first": {
+        "title": "Security First",
+        "description": "Every feature is built with security as the foundation, not an afterthought."
+      },
+      "user_centric": {
+        "title": "User-Centric",
+        "description": "We listen to our users and build exactly what they need to succeed."
+      },
+      "transparency": {
+        "title": "Transparency",
+        "description": "Clear pricing, honest communication, and no hidden fees or surprises."
+      },
+      "innovation": {
+        "title": "Innovation",
+        "description": "Constantly pushing the boundaries of what's possible in document security."
+      }
+    },
+    "team": {
+      "title": "Meet Our Team",
+      "john_doe": {
+        "name": "John Doe",
+        "role": "CEO & Founder",
+        "description": "Former security engineer with 10+ years experience in enterprise document management."
+      },
+      "jane_smith": {
+        "name": "Jane Smith",
+        "role": "CTO & Co-Founder",
+        "description": "Full-stack engineer passionate about building secure, scalable systems."
+      },
+      "mike_johnson": {
+        "name": "Mike Johnson",
+        "role": "Head of Security",
+        "description": "Security expert with certifications in cloud security and compliance."
+      }
+    },
+    "cta": {
+      "title": "Ready to get started?",
+      "description": "Join thousands of companies who trust DoQshare with their most important documents.",
+      "start_free": "Start for Free",
+      "contact_sales": "Contact Sales"
+    }
+  },
+  "integrations_page": {
+    "custom_integrations": {
+      "title": "Build Custom Integrations",
+      "description": "Use our REST API and webhooks to build powerful custom integrations tailored to your needs."
+    },
+    "rest_api": {
+      "title": "REST API",
+      "description": "Full-featured REST API for managing documents, analytics, and users. Complete control over your integration.",
+      "features": {
+        "document_management": "Document management endpoints",
+        "analytics": "Real-time analytics access",
+        "user_management": "User and team management",
+        "sdks": "Official SDKs (JS, Python, PHP)"
+      },
+      "button": "View API Docs"
+    },
+    "webhooks": {
+      "title": "Webhooks",
+      "description": "Receive real-time notifications when events occur. Perfect for automation and custom workflows.",
+      "features": {
+        "view_events": "Document view events",
+        "download_notifications": "Download notifications",
+        "access_events": "Access change events",
+        "secure_delivery": "Secure payload delivery"
+      },
+      "button": "View Webhook Docs"
+    },
+    "integration_guides": {
+      "title": "Integration Guides",
+      "description": "Step-by-step guides to help you integrate DoQshare with your favorite tools.",
+      "notion": {
+        "title": "Notion Integration",
+        "description": "Share documents directly from your Notion workspace"
+      },
+      "slack": {
+        "title": "Slack Integration",
+        "description": "Share secure links in Slack channels and get notifications"
+      },
+      "zapier": {
+        "title": "Zapier Integration",
+        "description": "Connect to more than 5,000 apps via Zapier automation"
+      },
+      "view_guide": "View Guide",
+      "view_all": "View All Guides"
+    },
+    "cta": {
+      "title": "Ready to integrate?",
+      "description": "Start building with DoQshare integrations today. Free plan includes API access.",
+      "get_started": "Get Started",
+      "schedule_demo": "Schedule Demo",
+      "help_text": "Need help? Check out our",
+      "api_docs": "API Documentation",
+      "or": "or",
+      "contact_us": "contact us"
+    }
+  },
+  "docs_page": {
+    "quick_links": {
+      "authentication": {
+        "title": "Authentication",
+        "description": "API keys and authentication"
+      },
+      "endpoints": {
+        "title": "Endpoints",
+        "description": "REST API endpoints"
+      },
+      "webhooks": {
+        "title": "Webhooks",
+        "description": "Real-time event notifications"
+      },
+      "sdks": {
+        "title": "SDKs",
+        "description": "Client libraries and SDKs"
+      }
+    },
+    "getting_started": {
+      "title": "Getting Started",
+      "step1": {
+        "title": "1. Get Your API Key",
+        "description": "Create an API key from your dashboard settings",
+        "instruction1": "# Navigate to Settings → API Keys",
+        "instruction2": "# Click \"Create New API Key\""
+      },
+      "step2": {
+        "title": "2. Make Your First Request",
+        "description": "Test the API with a simple request"
+      }
+    },
+    "authentication": {
+      "title": "Authentication",
+      "description": "All API requests require authentication using an API key. Include your API key in the Authorization header of every request.",
+      "api_key_auth": {
+        "title": "API Key Authentication",
+        "header_format": "Header Format:",
+        "example_request": "Example Request:"
+      },
+      "security_best_practices": {
+        "title": "Security Best Practices",
+        "practice1": "• Never commit API keys to version control",
+        "practice2": "• Use environment variables to store API keys",
+        "practice3": "• Rotate API keys regularly",
+        "practice4": "• Use different keys for development and production",
+        "practice5": "• Revoke keys immediately if compromised"
+      }
+    },
+    "endpoints": {
+      "title": "API Endpoints",
+      "description": "Explore our RESTful API endpoints for managing documents, analytics, data rooms, and more.",
+      "base_url": "Base URL:",
+      "base_url_value": "https://api.doqshare.com/v1",
+      "list_documents": {
+        "title": "List Documents",
+        "description": "Retrieve a paginated list of all documents in your account.",
+        "method": "GET",
+        "path": "/documents",
+        "query_params": {
+          "page": "Page number (default: 1)",
+          "limit": "Items per page (default: 20, max: 100)",
+          "sort": "Sort order: created_at, updated_at, name (default: created_at)",
+          "order": "Order direction: asc, desc (default: desc)"
+        }
+      },
+      "get_document": {
+        "title": "Get Document",
+        "description": "Retrieve detailed information about a specific document.",
+        "method": "GET",
+        "path": "/documents/{id}"
+      },
+      "create_document": {
+        "title": "Create Document",
+        "description": "Upload and create a new document. Supports PDF, DOCX, PPTX, and image files.",
+        "method": "POST",
+        "path": "/documents",
+        "request_body": {
+          "name": "Document name (required)",
+          "file": "Base64 encoded file or file URL (required)",
+          "password": "Optional password protection",
+          "expires_at": "Optional expiration date (ISO 8601)",
+          "watermark": "Enable dynamic watermarking (boolean)",
+          "allow_download": "Allow document downloads (boolean, default: true)"
+        }
+      },
+      "update_document": {
+        "title": "Update Document",
+        "description": "Update document metadata, settings, or permissions.",
+        "method": "PUT",
+        "path": "/documents/{id}"
+      },
+      "delete_document": {
+        "title": "Delete Document",
+        "description": "Permanently delete a document and all associated data.",
+        "method": "DELETE",
+        "path": "/documents/{id}"
+      },
+      "share_document": {
+        "title": "Share Document",
+        "description": "Create a shareable link for a document with custom permissions.",
+        "method": "POST",
+        "path": "/documents/{id}/share",
+        "request_body": {
+          "expires_at": "Link expiration date (ISO 8601)",
+          "password": "Optional password for the share link",
+          "allow_download": "Allow downloads (boolean)",
+          "max_views": "Maximum number of views (integer)",
+          "notify_on_view": "Send notification on view (boolean)"
+        }
+      },
+      "list_shares": {
+        "title": "List Document Shares",
+        "description": "Get all share links created for a document.",
+        "method": "GET",
+        "path": "/documents/{id}/shares"
+      },
+      "revoke_share": {
+        "title": "Revoke Share Link",
+        "description": "Revoke a specific share link for a document.",
+        "method": "DELETE",
+        "path": "/documents/{id}/shares/{share_id}"
+      },
+      "get_analytics": {
+        "title": "Get Document Analytics",
+        "description": "Retrieve comprehensive analytics data for a specific document.",
+        "method": "GET",
+        "path": "/documents/{id}/analytics",
+        "query_params": {
+          "start_date": "Start date for analytics (ISO 8601)",
+          "end_date": "End date for analytics (ISO 8601)",
+          "group_by": "Group by: day, week, month (default: day)"
+        }
+      },
+      "get_analytics_views": {
+        "title": "Get Document Views",
+        "description": "Get detailed view analytics including page-by-page tracking.",
+        "method": "GET",
+        "path": "/documents/{id}/analytics/views"
+      },
+      "get_analytics_downloads": {
+        "title": "Get Document Downloads",
+        "description": "Retrieve download analytics and statistics.",
+        "method": "GET",
+        "path": "/documents/{id}/analytics/downloads"
+      },
+      "list_data_rooms": {
+        "title": "List Data Rooms",
+        "description": "Retrieve all data rooms in your account.",
+        "method": "GET",
+        "path": "/data-rooms"
+      },
+      "get_data_room": {
+        "title": "Get Data Room",
+        "description": "Get detailed information about a specific data room.",
+        "method": "GET",
+        "path": "/data-rooms/{id}"
+      },
+      "create_data_room": {
+        "title": "Create Data Room",
+        "description": "Create a new virtual data room for M&A, fundraising, or due diligence.",
+        "method": "POST",
+        "path": "/data-rooms",
+        "request_body": {
+          "name": "Data room name (required)",
+          "description": "Optional description",
+          "custom_domain": "Optional custom domain",
+          "branding": "Branding settings (logo, colors)"
+        }
+      },
+      "update_data_room": {
+        "title": "Update Data Room",
+        "description": "Update data room settings and metadata.",
+        "method": "PUT",
+        "path": "/data-rooms/{id}"
+      },
+      "delete_data_room": {
+        "title": "Delete Data Room",
+        "description": "Permanently delete a data room and all its contents.",
+        "method": "DELETE",
+        "path": "/data-rooms/{id}"
+      },
+      "upload_file_to_data_room": {
+        "title": "Upload File to Data Room",
+        "description": "Upload a file to a specific data room.",
+        "method": "POST",
+        "path": "/data-rooms/{id}/files"
+      },
+      "list_data_room_files": {
+        "title": "List Data Room Files",
+        "description": "Get all files in a data room.",
+        "method": "GET",
+        "path": "/data-rooms/{id}/files"
+      },
+      "delete_data_room_file": {
+        "title": "Delete Data Room File",
+        "description": "Remove a file from a data room.",
+        "method": "DELETE",
+        "path": "/data-rooms/{id}/files/{file_id}"
+      },
+      "rate_limiting": {
+        "title": "Rate Limiting",
+        "description": "API requests are rate-limited to ensure fair usage. Rate limits vary by plan.",
+        "free_plan": "Free Plan: 100 requests/hour",
+        "pro_plan": "Pro Plan: 1,000 requests/hour",
+        "business_plan": "Business Plan: 10,000 requests/hour",
+        "enterprise_plan": "Enterprise Plan: Custom limits",
+        "headers": {
+          "x_rate_limit_limit": "Maximum number of requests allowed",
+          "x_rate_limit_remaining": "Number of requests remaining",
+          "x_rate_limit_reset": "Unix timestamp when the rate limit resets"
+        }
+      },
+      "error_codes": {
+        "title": "Error Codes",
+        "description": "The API uses standard HTTP status codes and returns detailed error messages.",
+        "400": {
+          "code": "400 Bad Request",
+          "description": "Invalid request parameters or malformed request body."
+        },
+        "401": {
+          "code": "401 Unauthorized",
+          "description": "Missing or invalid API key. Check your Authorization header."
+        },
+        "403": {
+          "code": "403 Forbidden",
+          "description": "You don't have permission to access this resource."
+        },
+        "404": {
+          "code": "404 Not Found",
+          "description": "The requested resource does not exist."
+        },
+        "429": {
+          "code": "429 Too Many Requests",
+          "description": "Rate limit exceeded. Check X-RateLimit-* headers."
+        },
+        "500": {
+          "code": "500 Internal Server Error",
+          "description": "An unexpected error occurred on our servers."
+        }
+      }
+    },
+    "webhooks": {
+      "title": "Webhooks",
+      "description": "Receive real-time notifications when events occur in your DoQshare account. Configure webhooks to integrate DoQshare with your applications.",
+      "getting_started": {
+        "title": "Getting Started with Webhooks",
+        "step1": {
+          "title": "1. Create a Webhook",
+          "description": "Register a webhook endpoint URL in your dashboard"
+        },
+        "step2": {
+          "title": "2. Select Events",
+          "description": "Choose which events you want to receive notifications for"
+        },
+        "step3": {
+          "title": "3. Verify Signature",
+          "description": "Verify webhook signatures to ensure authenticity"
+        }
+      },
+      "available_events": {
+        "title": "Available Events",
+        "description": "Subscribe to any of these events to receive real-time notifications:",
+        "document_created": "document.created - Fired when a new document is created",
+        "document_updated": "document.updated - Fired when a document is updated",
+        "document_deleted": "document.deleted - Fired when a document is deleted",
+        "document_viewed": "document.viewed - Fired when a document is viewed",
+        "document_downloaded": "document.downloaded - Fired when a document is downloaded",
+        "document_shared": "document.shared - Fired when a document share link is created",
+        "share_revoked": "share.revoked - Fired when a share link is revoked",
+        "data_room_created": "data_room.created - Fired when a data room is created",
+        "data_room_updated": "data_room.updated - Fired when a data room is updated",
+        "data_room_deleted": "data_room.deleted - Fired when a data room is deleted",
+        "file_uploaded": "file.uploaded - Fired when a file is uploaded to a data room"
+      },
+      "webhook_payload": {
+        "title": "Webhook Payload",
+        "description": "All webhook payloads follow this structure:",
+        "structure": {
+          "event": "Event type (e.g., 'document.viewed')",
+          "data": "Event-specific data object",
+          "timestamp": "ISO 8601 timestamp of the event",
+          "webhook_id": "Unique identifier for the webhook"
+        }
+      },
+      "security": {
+        "title": "Webhook Security",
+        "description": "Each webhook request includes a signature header for verification:",
+        "signature_header": "X-DoQshare-Signature",
+        "verification": "Verify the signature using your webhook secret to ensure the request is from DoQshare"
+      },
+      "retry_policy": {
+        "title": "Retry Policy",
+        "description": "If your endpoint returns a non-2xx status code, we will retry the webhook:",
+        "retry_schedule": "Retries occur at: 1 minute, 5 minutes, 15 minutes, 1 hour, 6 hours",
+        "max_retries": "Maximum of 5 retry attempts"
+      },
+      "endpoints": {
+        "list": {
+          "title": "List Webhooks",
+          "method": "GET",
+          "path": "/webhooks"
+        },
+        "create": {
+          "title": "Create Webhook",
+          "method": "POST",
+          "path": "/webhooks",
+          "request_body": {
+            "url": "Webhook endpoint URL (required)",
+            "events": "Array of event types to subscribe to (required)",
+            "secret": "Optional secret for signature verification"
+          }
+        },
+        "get": {
+          "title": "Get Webhook",
+          "method": "GET",
+          "path": "/webhooks/{id}"
+        },
+        "update": {
+          "title": "Update Webhook",
+          "method": "PUT",
+          "path": "/webhooks/{id}"
+        },
+        "delete": {
+          "title": "Delete Webhook",
+          "method": "DELETE",
+          "path": "/webhooks/{id}"
+        }
+      }
+    },
+    "sdks": {
+      "title": "SDKs & Libraries",
+      "description": "Use our official SDKs and client libraries to integrate DoQshare into your applications quickly.",
+      "view_on_github": "View on GitHub"
+    },
+    "api_integration_guides": {
+      "title": "Integration Guides",
+      "description": "Step-by-step guides to integrate DoQshare into your applications with code examples in multiple languages.",
+      "step_by_step": {
+        "title": "Step-by-Step Integration Guide",
+        "description": "Follow this guide to integrate DoQshare into your application in minutes.",
+        "step1": {
+          "title": "Step 1: Install SDK or Use REST API",
+          "description": "Choose your preferred integration method. We provide official SDKs for popular languages or you can use our REST API directly."
+        },
+        "step2": {
+          "title": "Step 2: Configure Authentication",
+          "description": "Set up your API key and configure authentication in your application."
+        },
+        "step3": {
+          "title": "Step 3: Upload Your First Document",
+          "description": "Upload a document and create a shareable link."
+        },
+        "step4": {
+          "title": "Step 4: Track Analytics",
+          "description": "Monitor document views and engagement with our analytics API."
+        },
+        "step5": {
+          "title": "Step 5: Set Up Webhooks",
+          "description": "Configure webhooks to receive real-time notifications about document events."
+        }
+      },
+      "language_examples": {
+        "title": "Language-Specific Examples",
+        "description": "Code examples for integrating DoQshare in your preferred programming language.",
+        "javascript": {
+          "title": "JavaScript/TypeScript",
+          "description": "Integrate DoQshare using our official JavaScript SDK or fetch API.",
+          "install": "npm install @doqshare/sdk",
+          "example": {
+            "title": "Complete Example",
+            "upload": "Upload a document",
+            "share": "Create a shareable link",
+            "analytics": "Get document analytics"
+          }
+        },
+        "python": {
+          "title": "Python",
+          "description": "Use our Python SDK to integrate DoQshare into your Python applications.",
+          "install": "pip install doqshare",
+          "example": {
+            "title": "Complete Example",
+            "upload": "Upload a document",
+            "share": "Create a shareable link",
+            "analytics": "Get document analytics"
+          }
+        },
+        "php": {
+          "title": "PHP",
+          "description": "Integrate DoQshare using our PHP SDK or cURL.",
+          "install": "composer require doqshare/sdk",
+          "example": {
+            "title": "Complete Example",
+            "upload": "Upload a document",
+            "share": "Create a shareable link",
+            "analytics": "Get document analytics"
+          }
+        },
+        "curl": {
+          "title": "cURL / REST API",
+          "description": "Use our REST API directly with cURL or any HTTP client.",
+          "example": {
+            "title": "Example Requests",
+            "upload": "Upload a document",
+            "share": "Create a shareable link",
+            "analytics": "Get document analytics"
+          }
+        }
+      },
+      "use_cases": {
+        "title": "Real-World Use Cases",
+        "description": "See how other developers are using DoQshare API in production.",
+        "case1": {
+          "title": "Automated Document Sharing",
+          "description": "Automatically share documents with clients after they sign a contract.",
+          "scenario": "When a contract is signed, automatically upload it to DoQshare and send a secure link to the client."
+        },
+        "case2": {
+          "title": "Pitch Deck Analytics",
+          "description": "Track investor engagement with your pitch deck.",
+          "scenario": "Upload pitch decks and track which slides investors spend the most time on."
+        },
+        "case3": {
+          "title": "Secure File Delivery",
+          "description": "Replace email attachments with secure, trackable links.",
+          "scenario": "Send sensitive documents via secure links instead of email attachments."
+        },
+        "case4": {
+          "title": "Data Room Automation",
+          "description": "Automatically create and manage data rooms for M&A transactions.",
+          "scenario": "Create data rooms programmatically and manage access for due diligence processes."
+        }
+      },
+      "best_practices": {
+        "title": "Best Practices",
+        "description": "Follow these best practices to ensure secure and efficient API integration.",
+        "security": {
+          "title": "Security",
+          "practice1": "Store API keys in environment variables, never in code",
+          "practice2": "Use HTTPS for all API requests",
+          "practice3": "Rotate API keys regularly",
+          "practice4": "Implement proper error handling",
+          "practice5": "Validate webhook signatures"
+        },
+        "performance": {
+          "title": "Performance",
+          "practice1": "Implement request retry logic with exponential backoff",
+          "practice2": "Cache document metadata when possible",
+          "practice3": "Use webhooks instead of polling when possible",
+          "practice4": "Batch operations when uploading multiple files",
+          "practice5": "Monitor rate limits and implement throttling"
+        },
+        "error_handling": {
+          "title": "Error Handling",
+          "practice1": "Always check HTTP status codes",
+          "practice2": "Handle rate limit errors (429) gracefully",
+          "practice3": "Implement retry logic for transient errors",
+          "practice4": "Log errors for debugging",
+          "practice5": "Provide user-friendly error messages"
+        },
+        "testing": {
+          "title": "Testing",
+          "practice1": "Use test API keys for development",
+          "practice2": "Test error scenarios (invalid keys, missing files, etc.)",
+          "practice3": "Mock API responses in unit tests",
+          "practice4": "Test webhook endpoints with local tools",
+          "practice5": "Validate all API responses before processing"
+        }
+      }
+    },
+    "cta": {
+      "title": "Ready to Get Started?",
+      "description": "Start building with DoQshare API today. Free plan includes API access.",
+      "get_api_key": "Get API Key",
+      "contact_support": "Contact Support",
+      "help_text": "Need help? Check out our",
+      "help_center": "Help Center",
+      "or": "or",
+      "contact_us": "contact us"
+    }
+  },
+  "contact_page": {
+    "title": "Contact DoQshare",
+    "general_inquiries": {
+      "title": "General Inquiries",
+      "email": "hello@doqshare.com",
+      "phone": "(450) 111-2233"
+    },
+    "enterprise_sales": {
+      "title": "Enterprise Sales",
+      "email": "sales@doqshare.com",
+      "phone": "(450) 111-2233"
+    },
+    "form": {
+      "title": "Get in touch with DoQshare",
+      "description": "Contact our team to learn more about our secure document sharing platform and how it can benefit your business.",
+      "full_name": "Full name",
+      "work_email": "Work Email",
+      "country_region": "Country/Region",
+      "select_country": "Select a country",
+      "company_website": "Company Website",
+      "job_function": "Job function",
+      "select_job_function": "Select a job function",
+      "message": "Message",
+      "submit": "Submit",
+      "countries": {
+        "canada": "Canada",
+        "united_states": "United States",
+        "france": "France",
+        "united_kingdom": "United Kingdom",
+        "germany": "Germany"
+      },
+      "job_functions": {
+        "startup": "Startup/Entrepreneur",
+        "real_estate": "Real Estate",
+        "legal": "Legal",
+        "healthcare": "Healthcare",
+        "finance": "Finance",
+        "other": "Other"
+      },
+      "feedback": {
+        "success_title": "Message sent!",
+        "success_description": "Thank you for your message. Our team will get back to you as soon as possible.",
+        "error_title": "Error",
+        "error_description": "An error occurred while sending your message. Please try again."
+      }
+    },
+    "metadata": {
+      "title": "Contact DoQshare - Support and Sales",
+      "description": "Contact the DoQshare team for technical support, enterprise sales or any questions. 24/7 support, free demonstrations and personalized assistance.",
+      "keywords": [
+        "contact DoQshare",
+        "technical support",
+        "enterprise sales",
+        "free demonstration",
+        "personalized assistance"
+      ]
+    }
+  },
+  "case_studies_page": {
+    "cta": {
+      "title": "Ready to write your success story?",
+      "description": "Join thousands of companies using DoQshare to secure documents, track engagement, and close more deals.",
+      "start_free_trial": "Start Free Trial",
+      "schedule_demo": "Schedule Demo",
+      "footer": "No credit card required • 14-day free trial • Cancel anytime"
+    }
+  },
+  "education_page": {
+    "hero": {
+      "title": "Secure Document Sharing for Education",
+      "description": "Share course materials, research papers, and academic documents securely with students and faculty. Track engagement and protect sensitive information.",
+      "features": {
+        "secure_sharing": "Secure Document Sharing",
+        "course_materials": "Course Materials",
+        "student_collaboration": "Student Collaboration",
+        "academic_integrity": "Academic Integrity"
+      },
+      "cta_primary": "Share Documents Now",
+      "cta_secondary": "Schedule Demo"
+    },
+    "secure_platform": {
+      "title": "Secure Document Sharing Platform for Education",
+      "description": "DoQshare is a secure document sharing platform designed for educational institutions. Share course materials, research papers, and academic documents securely with students and faculty. With advanced encryption and access controls, DoQshare ensures that your educational documents are protected and only accessible to authorized users.",
+      "feature1": {
+        "title": "Share course materials securely",
+        "description": "Share syllabi, lecture notes, assignments, and course materials with students. Control access and track engagement."
+      },
+      "feature2": {
+        "title": "Collaborate on research papers",
+        "description": "Share research papers, academic publications, and collaborative documents with faculty members and research teams."
+      },
+      "feature3": {
+        "title": "Protect academic integrity",
+        "description": "Use dynamic watermarking, password protection, and access controls to protect sensitive academic documents and student information."
+      },
+      "cta": "Share Documents Now",
+      "how_it_works": {
+        "title": "How Educational Document Sharing Works",
+        "description": "DoQshare simplifies the process of sharing and collaborating on educational documents. With features like secure document rooms and version control, educators can easily manage and track changes to course materials, ensuring efficient and secure collaboration.",
+        "step1": {
+          "title": "Upload Documents",
+          "description": "Securely upload course materials, research papers, and academic documents"
+        },
+        "step2": {
+          "title": "Share with Students & Faculty",
+          "description": "Generate secure links and control access permissions for students and faculty"
+        },
+        "step3": {
+          "title": "Track Engagement",
+          "description": "Monitor document views, student engagement, and academic interactions"
+        }
+      }
+    },
+    "cta": {
+      "title": "Share Educational Documents Securely",
+      "description": "Start sharing your course materials and academic documents securely with students and faculty today. Free plan available.",
+      "start_now": "Start now",
+      "schedule_demo": "Schedule Demo",
+      "footer": "No credit card required • Free plan available • 14-day free trial"
+    }
+  },
+  "startup_page": {
+    "track_fundraising": {
+      "title": "Track your fundraising progress",
+      "description": "Get real-time insights into how investors engage with your pitch deck. See who viewed your deck, which slides they spent time on, and optimize your fundraising strategy.",
+      "feature1": {
+        "title": "See which investors are most engaged",
+        "description": "Track view duration, pages viewed, and return visits to identify your most interested investors."
+      },
+      "feature2": {
+        "title": "Understand what resonates",
+        "description": "Page-by-page analytics show which slides get the most attention, helping you refine your pitch."
+      },
+      "feature3": {
+        "title": "Prioritize your follow-ups",
+        "description": "Use engagement data to focus on investors who show the most interest in your startup."
+      },
+      "cta": "Start tracking your pitch deck"
+    },
+    "analytics": {
+      "title": "Pitch Deck Analytics",
+      "series_a": "Series A Pitch Deck",
+      "product_demo": "Product Demo",
+      "views": "views",
+      "investors": "investors",
+      "avg_completion": "avg. completion",
+      "recent_activity": "Recent Activity",
+      "activity1": "John from Accel viewed Series A Pitch Deck",
+      "activity2": "Sarah from Sequoia spent 8 min on slide 5",
+      "activity3": "Mike from YC returned to view deck",
+      "min_ago": "min ago",
+      "hour_ago": "hour ago"
+    },
+    "cta": {
+      "title": "Ready to start your fundraising journey?",
+      "description": "Upload your pitch deck and start tracking investor engagement today. Free plan available.",
+      "upload_pitch_deck": "Upload your pitch deck",
+      "book_demo": "Book a demo",
+      "footer": "No credit card required • Free plan available • 14-day free trial"
+    },
+    "features_section": {
+      "badge": "Startup Features",
+      "title": "Everything you need for fundraising",
+      "description": "Track your fundraising progress with real-time insights into how investors engage with your pitch deck. See who viewed your deck, which slides they spent time on, and optimize your fundraising strategy.",
+      "list": [
+        {
+          "title": "Pitch Deck Analytics",
+          "description": "Track page-by-page engagement to see which slides investors spend the most time on. Understand what resonates and optimize your pitch."
+        },
+        {
+          "title": "Investor Tracking",
+          "description": "See exactly who viewed your pitch deck, when they accessed it, and how long they spent. Know which investors are most engaged."
+        },
+        {
+          "title": "Secure Sharing",
+          "description": "Share your pitch deck with password protection, expiration dates, and download controls. Keep your deck private and secure."
+        },
+        {
+          "title": "Dynamic Watermarking",
+          "description": "Protect your pitch deck with dynamic watermarks that identify each viewer, preventing unauthorized sharing and leaks."
+        },
+        {
+          "title": "Real-time Notifications",
+          "description": "Get instant notifications when investors view your deck, which slides they're on, and how long they're engaging with your content."
+        },
+        {
+          "title": "Custom Branding",
+          "description": "Remove DoQshare branding and add your own logo and colors. Share your pitch deck with a professional, branded experience."
+        },
+        {
+          "title": "Fundraising Data Room",
+          "description": "Create a complete data room for your fundraising round with all documents organized and accessible to investors securely."
+        },
+        {
+          "title": "Investor Updates",
+          "description": "Send updatable pitch decks to investors. Update your deck without changing the link, keeping all stakeholders informed."
+        },
+        {
+          "title": "NDA Protection",
+          "description": "Require investors to accept NDAs before accessing your pitch deck. Protect your sensitive information with one-click NDA agreements."
+        },
+        {
+          "title": "Screenshot Protection",
+          "description": "Prevent unauthorized screenshots and screen recording. Keep your pitch deck content secure from leaks and unauthorized sharing."
+        },
+        {
+          "title": "Link Controls",
+          "description": "Set expiry dates, password protection, and access restrictions. Control how your pitch deck links are shared and accessed."
+        },
+        {
+          "title": "Export Analytics",
+          "description": "Export detailed analytics reports to share with your team or include in investor updates. Track your fundraising progress over time."
+        }
+      ]
+    },
+    "faq_section": {
+      "badge": "FAQ",
+      "title": "Frequently asked questions",
+      "description": "Everything you need to know about using DoQshare for fundraising. Can't find the answer you're looking for? Please reach out to our friendly team.",
+      "cta": "Book a Demo",
+      "list": [
+        {
+          "question": "How can DoQshare help with my fundraising?",
+          "answer": "DoQshare helps you track investor engagement with your pitch deck in real-time. See which investors viewed your deck, which slides they spent time on, and use these insights to prioritize follow-ups and optimize your pitch. Many founders use this data to close deals faster by understanding what resonates with investors."
+        },
+        {
+          "question": "Can I see which slides investors spend the most time on?",
+          "answer": "Yes! DoQshare provides page-by-page analytics showing exactly which slides investors spend the most time viewing. This helps you understand what content resonates most and identify which investors are most engaged with your pitch."
+        },
+        {
+          "question": "Is my pitch deck secure?",
+          "answer": "Absolutely. DoQshare uses bank-level AES-256 encryption for all documents. We're GDPR, HIPAA, and SOC2 compliant. Your pitch deck is protected with dynamic watermarks, screenshot protection, and granular access controls. You can revoke access instantly at any time."
+        },
+        {
+          "question": "Can I update my pitch deck without changing the link?",
+          "answer": "Yes! With DoQshare, you can update your pitch deck without changing the link. This means you can send one link to investors and update it as your pitch evolves, keeping all stakeholders informed with the latest version."
+        },
+        {
+          "question": "How do I know which investors are most interested?",
+          "answer": "DoQshare tracks detailed engagement metrics including view duration, pages viewed, and time spent on each slide. Investors who spend more time on your deck, view multiple slides, and return to view it again are typically more interested. Use these insights to prioritize your follow-ups."
+        },
+        {
+          "question": "Can I require investors to sign an NDA before viewing my pitch deck?",
+          "answer": "Yes! DoQshare offers one-click NDA functionality. You can require viewers to accept an NDA before accessing your pitch deck, protecting your sensitive information and ensuring legal compliance."
+        },
+        {
+          "question": "What file formats are supported for pitch decks?",
+          "answer": "DoQshare supports PDFs, PowerPoint (.PPTX, .PPT), and other common document formats. Your pitch deck is automatically optimized for secure sharing while maintaining quality. Large files are fully supported."
+        },
+        {
+          "question": "Is there a free plan for startups?",
+          "answer": "Yes! We offer a free plan that's perfect for getting started. You can share your pitch deck, track basic analytics, and test all features. Upgrade as you grow to unlock advanced analytics, custom branding, and unlimited documents."
+        }
+      ]
+    },
+    "metadata": {
+      "title": "DoQshare for Startups - Pitch Deck Sharing & Investor Tracking",
+      "description": "Share your pitch deck securely with investors and track engagement in real-time. See who viewed your deck, which slides they spent time on, and optimize your fundraising strategy. Free plan available.",
+      "keywords": [
+        "pitch deck sharing",
+        "investor tracking",
+        "fundraising analytics",
+        "startup fundraising",
+        "pitch deck analytics",
+        "investor relations",
+        "secure pitch deck",
+        "fundraising tools",
+        "startup data room",
+        "investor engagement",
+        "pitch deck security",
+        "fundraising metrics",
+        "startup investors",
+        "pitch deck tracking",
+        "fundraising platform",
+        "investor updates",
+        "startup pitch",
+        "venture capital",
+        "seed round",
+        "series A fundraising"
+      ]
+    }
+  },
+  "legal_data_room_page": {
+    "hero": {
+      "title": "Legal Data Room Software",
+      "description": "The best solution to create a secure legal data room for legal professionals. Share sensitive legal documents and enhance client communication for your law firm.",
+      "features": {
+        "legal_sharing": "Legal Document Sharing",
+        "enterprise_security": "Enterprise Security",
+        "advanced_analytics": "Advanced Analytics",
+        "client_communication": "Client Communication"
+      },
+      "cta": "Create Data Room"
+    },
+    "branded_data_room": {
+      "title": "Branded Legal Data Room",
+      "description": "With DoQshare, you can create a legal data room to share sensitive legal documents and enhance client communication for your law firm. Customize your data room with your firm's branding and provide a professional experience for your clients.",
+      "feature1": {
+        "title": "Professional client experience",
+        "description": "Create branded data rooms with your firm's logo, colors, and custom domain for a professional client experience."
+      },
+      "feature2": {
+        "title": "Secure document sharing",
+        "description": "Share sensitive legal documents securely with clients, opposing counsel, and other parties with enterprise-grade security."
+      },
+      "feature3": {
+        "title": "Enhanced client communication",
+        "description": "Improve client communication by providing a centralized, secure platform for sharing case documents and updates."
+      },
+      "cta": "Create Legal Data Room",
+      "features_title": "Legal Data Room Features",
+      "features_description": "DoQshare's legal data room provides all the features you need to securely manage and share legal documents with clients and other parties.",
+      "feature_item1": {
+        "title": "Document Organization",
+        "description": "Organize documents by case, matter, or client"
+      },
+      "feature_item2": {
+        "title": "Secure Access Control",
+        "description": "Control who can access which documents"
+      },
+      "feature_item3": {
+        "title": "Activity Tracking",
+        "description": "Track document views and client interactions"
+      }
+    },
+    "advanced_analytics": {
+      "title": "Legal Data Room with Advanced Analytics",
+      "description": "Track activity on each page of your legal data room, capture client interactions, and use custom link settings for your legal document analytics. Understand how clients engage with your documents and improve your communication strategy.",
+      "feature1": {
+        "title": "Track document engagement",
+        "description": "See which documents clients view most, how long they spend on each page, and when they access your legal data room."
+      },
+      "feature2": {
+        "title": "Capture client interactions",
+        "description": "Monitor client activity, track document downloads, and understand how clients interact with your legal documents."
+      },
+      "feature3": {
+        "title": "Custom link settings",
+        "description": "Configure access permissions, set expiration dates, and control who can view, download, or share your legal documents."
+      },
+      "cta": "Start Using Legal Data Room Analytics",
+      "analytics_title": "Advanced Analytics for Legal Documents",
+      "analytics_description": "Track activity on each page of your legal data room, capture client interactions, and use custom link settings for your legal document analytics.",
+      "step1": {
+        "title": "Page-by-Page Tracking",
+        "description": "See which pages clients view and for how long"
+      },
+      "step2": {
+        "title": "Client Interaction Capture",
+        "description": "Track when clients access documents and what they view"
+      },
+      "step3": {
+        "title": "Custom Link Settings",
+        "description": "Configure access permissions and tracking options"
+      }
+    },
+    "cta": {
+      "title": "Create your secure legal data room",
+      "description": "Start sharing legal documents securely with clients today. Free plan available, no credit card required.",
+      "start_now": "Start now",
+      "schedule_demo": "Schedule Demo",
+      "footer": "No credit card required • Free plan available • 14-day free trial"
+    }
+  },
+  "real_estate_data_room_page": {
+    "hero": {
+      "title": "Real Estate Data Room",
+      "description": "Best solution to create a secure virtual data room for realtors. Share offers, capture leads, and track activity with advanced analytics.",
+      "features": {
+        "property_documents": "Property Documents",
+        "secure_sharing": "Secure Sharing",
+        "advanced_analytics": "Advanced Analytics",
+        "lead_capture": "Lead Capture"
+      },
+      "cta": "Create Data Room"
+    },
+    "branded_data_room": {
+      "title": "Branded Virtual Data Room for Realtors",
+      "description": "With DoQshare, you can create a virtual data room and share offers and capture more leads for your real estate business. Customize your data room with your branding and provide a professional experience for clients and investors.",
+      "feature1": {
+        "title": "Share property offers securely",
+        "description": "Share property offers, contracts, and documents securely with buyers, sellers, and investors with enterprise-grade security."
+      },
+      "feature2": {
+        "title": "Capture more leads",
+        "description": "Capture leads automatically when potential buyers or investors access your property data room. Track engagement and follow up with interested parties."
+      },
+      "feature3": {
+        "title": "Professional branding",
+        "description": "Customize your data room with your real estate agency's branding, logo, and colors for a professional client experience."
+      },
+      "cta": "Create Data Room for Real Estate",
+      "features_title": "Real Estate Data Room Features",
+      "features_description": "DoQshare's real estate data room provides all the features you need to securely manage and share property documents with clients, buyers, and investors.",
+      "feature_item1": {
+        "title": "Property Document Management",
+        "description": "Organize property documents, contracts, and offers"
+      },
+      "feature_item2": {
+        "title": "Lead Capture",
+        "description": "Automatically capture leads when documents are accessed"
+      },
+      "feature_item3": {
+        "title": "Activity Tracking",
+        "description": "Track document views and client interactions"
+      }
+    },
+    "advanced_analytics": {
+      "title": "Real Estate Investment Data Room with Advanced Analytics",
+      "description": "Track activity on each page of your virtual data room, capture emails, and use custom link settings for your data room analytics. Understand how potential buyers and investors engage with your property documents and improve your sales strategy.",
+      "feature1": {
+        "title": "Track property document engagement",
+        "description": "See which property documents potential buyers view most, how long they spend on each page, and when they access your data room."
+      },
+      "feature2": {
+        "title": "Capture leads automatically",
+        "description": "Automatically capture email addresses and contact information when potential buyers or investors access your property data room."
+      },
+      "feature3": {
+        "title": "Custom link settings",
+        "description": "Configure access permissions, set expiration dates, and control who can view, download, or share your property documents."
+      },
+      "cta": "Start Tracking Activity",
+      "analytics_title": "Advanced Analytics for Real Estate",
+      "analytics_description": "Track activity on each page of your virtual data room, capture emails, and use custom link settings for your data room analytics.",
+      "step1": {
+        "title": "Page-by-Page Tracking",
+        "description": "See which property documents clients view and for how long"
+      },
+      "step2": {
+        "title": "Email Capture",
+        "description": "Automatically capture email addresses when documents are accessed"
+      },
+      "step3": {
+        "title": "Custom Link Settings",
+        "description": "Configure access permissions and tracking options for each property"
+      }
+    },
+    "cta": {
+      "title": "Create your secure data room for real estate",
+      "description": "Start sharing property documents securely with clients and investors today. Free plan available, no credit card required.",
+      "start_now": "Start now",
+      "schedule_demo": "Schedule Demo",
+      "footer": "No credit card required • Free plan available • 14-day free trial"
+    }
+  },
+  "startups_page": {
+    "track_fundraising": {
+      "title": "Track your fundraising progress",
+      "description": "Get real-time insights into how investors engage with your pitch deck. See who viewed your deck, which slides they spent time on, and optimize your fundraising strategy.",
+      "feature1": {
+        "title": "See which investors are most engaged",
+        "description": "Track view duration, pages viewed, and return visits to identify your most interested investors."
+      },
+      "feature2": {
+        "title": "Understand what resonates",
+        "description": "Page-by-page analytics show which slides get the most attention, helping you refine your pitch."
+      },
+      "feature3": {
+        "title": "Prioritize your follow-ups",
+        "description": "Use engagement data to focus on investors who show the most interest in your startup."
+      },
+      "cta": "Start tracking your pitch deck"
+    },
+    "analytics": {
+      "title": "Pitch Deck Analytics",
+      "series_a": "Series A Pitch Deck",
+      "product_demo": "Product Demo",
+      "views": "views",
+      "investors": "investors",
+      "avg_completion": "avg. completion",
+      "recent_activity": "Recent Activity",
+      "activity1": "John from Accel viewed Series A Pitch Deck",
+      "activity2": "Sarah from Sequoia spent 8 min on slide 5",
+      "activity3": "Mike from YC returned to view deck",
+      "min_ago": "min ago",
+      "hour_ago": "hour ago"
+    },
+    "hero_footer": ".PDF | .PPTX | .PPT | Upload a deck, get a trackable link",
+    "cta": {
+      "title": "Ready to start your fundraising journey?",
+      "description": "Upload your pitch deck and start tracking investor engagement today. Free plan available.",
+      "upload_pitch_deck": "Upload your pitch deck",
+      "schedule_demo": "Schedule Demo",
+      "footer": "No credit card required • Free plan available • 14-day free trial"
+    }
+  },
+  "privacy_page": {
+    "header": {
+      "title": "Privacy Policy",
+      "last_updated": "Last updated:"
+    },
+    "sections": {
+      "introduction": {
+        "title": "1. Introduction",
+        "content": {
+          "welcome": "Welcome to <strong>DoQshare</strong>.",
+          "service_description": "DoQshare (\"us\", \"we\", or \"our\") operates <a href=\"https://doqshare.com\" className=\"text-primary hover:underline\">https://doqshare.com</a> and the DoQshare platform (hereinafter referred to as \"<strong>Service</strong>\").",
+          "policy_governs": "Our Privacy Policy governs your visit to our website and use of our Service, and explains how we collect, safeguard and disclose information that results from your use of our Service.",
+          "data_use": "We use your data to provide and improve Service. By using Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, the terms used in this Privacy Policy have the same meanings as in our <a href=\"/terms\" className=\"text-primary hover:underline\">Terms and Conditions</a>.",
+          "terms_agreement": "Our Terms and Conditions (\"<strong>Terms</strong>\") govern all use of our Service and together with the Privacy Policy constitutes your agreement with us (\"<strong>agreement</strong>\").",
+          "compliance_intro": "This Privacy Policy is designed to comply with applicable privacy laws, including:",
+          "laws": {
+            "law25": "Quebec's Law 25 (An Act to modernize legislative provisions as regards the protection of personal information)",
+            "pipeda": "The Personal Information Protection and Electronic Documents Act (PIPEDA) of Canada",
+            "gdpr": "The General Data Protection Regulation (GDPR) of the European Union",
+            "ccpa": "The California Consumer Privacy Act (CCPA)"
+          }
+        }
+      },
+      "definitions": {
+        "title": "2. Definitions",
+        "content": {
+          "service": "<strong>SERVICE</strong> means the https://doqshare.com website and DoQshare platform operated by DoQshare.",
+          "personal_data": "<strong>PERSONAL DATA</strong> means data about a living individual who can be identified from those data (or from those and other information either in our possession or likely to come into our possession).",
+          "usage_data": "<strong>USAGE DATA</strong> is data collected automatically either generated by the use of Service or from Service infrastructure itself (for example, the duration of a page visit).",
+          "cookies": "<strong>COOKIES</strong> are small files stored on your device (computer or mobile device). For more information, see our <a href=\"/cookies\" className=\"text-primary hover:underline\">Cookie Policy</a>.",
+          "data_controller": "<strong>DATA CONTROLLER</strong> means a natural or legal person who (either alone or jointly or in common with other persons) determines the purposes for which and the manner in which any personal data are, or are to be, processed. For the purpose of this Privacy Policy, we are a Data Controller of your data.",
+          "data_processors": "<strong>DATA PROCESSORS (OR SERVICE PROVIDERS)</strong> means any natural or legal person who processes the data on behalf of the Data Controller. We may use the services of various Service Providers in order to process your data more effectively.",
+          "data_subject": "<strong>DATA SUBJECT</strong> is any living individual who is the subject of Personal Data.",
+          "user": "<strong>THE USER</strong> is the individual using our Service. The User corresponds to the Data Subject, who is the subject of Personal Data."
+        }
+      },
+      "zero_knowledge": {
+        "title": "3. Zero-Knowledge Architecture and Document Access",
+        "content": {
+          "cannot_access": "We Cannot Access Your Documents",
+          "zero_knowledge_intro": "DoQshare operates on a <strong>zero-knowledge architecture</strong>. This means:",
+          "no_superadmin": "<strong>No Superadmin Access:</strong> DoQshare does not have a superadmin account or any backdoor that allows us to access your documents. We cannot view, read, or access the content of files you upload to our platform.",
+          "client_encryption": "<strong>Client-Side Encryption:</strong> Your documents are encrypted before being uploaded to our servers. The encryption keys are managed by you, not by us.",
+          "no_content_access": "<strong>No Document Content Access:</strong> Our system can only access metadata (file names, sizes, upload dates) and analytics data (who accessed, when, duration), but never the actual content of your documents.",
+          "privacy_by_design": "<strong>Privacy by Design:</strong> This architecture ensures that even if our systems were compromised, your document content would remain secure and inaccessible.",
+          "zero_knowledge_benefits": "This zero-knowledge approach provides enhanced privacy protection and compliance with privacy regulations, as we cannot access, process, or disclose document content that we cannot see. This is a fundamental design principle of our platform and a key differentiator in how we protect your sensitive information.",
+          "compliance_benefits": "<strong>Compliance Benefits:</strong> This architecture helps ensure compliance with privacy laws because:",
+          "benefit1": "We cannot process document content without your explicit authorization (since we cannot access it)",
+          "benefit2": "Data minimization: we only collect and process the minimum necessary information",
+          "benefit3": "Reduced risk of unauthorized access or data breaches affecting document content",
+          "benefit4": "Enhanced user control over sensitive information"
+        }
+      },
+      "contact": {
+        "title": "21. Contact Us",
+        "content": {
+          "intro": "If you have any questions, concerns, or requests regarding this Privacy Policy or our privacy practices, please contact us:",
+          "company": "DoQshare",
+          "location": "Laval, Québec, Canada",
+          "privacy_officer": "Privacy Officer:",
+          "privacy_email": "privacy@doqshare.com",
+          "general_inquiries": "General Inquiries:",
+          "contact_email": "contact@doqshare.com",
+          "phone": "Phone:",
+          "phone_number": "(450) 111-2233",
+          "authorities": {
+            "title": "Data Protection Authority (Quebec):",
+            "quebec": "Commission d'accès à l'information du Québec",
+            "canada": "Data Protection Authority (Canada):",
+            "canada_authority": "Office of the Privacy Commissioner of Canada",
+            "eu": "Data Protection Authority (EU):",
+            "eu_note": "You may contact your local supervisory authority"
+          }
+        }
+      },
+      "acknowledgment": "By using DoQshare, you acknowledge that you have read and understood this Privacy Policy and consent to the collection, use, and disclosure of your information as described herein."
+    }
+  },
+  "terms_page": {
+    "header": {
+      "title": "Terms of Service",
+      "last_updated": "Last updated:",
+      "effective_date": "Effective date:"
+    },
+    "sections": {
+      "introduction": {
+        "title": "1. Introduction",
+        "content": {
+          "terms_description": "These Terms of Service (\"<strong>Terms</strong>\") constitute an agreement between DoQshare (\"DoQshare,\" \"us,\" \"we\" or \"our\") and the party agreeing to these terms (\"<strong>Customer</strong>,\" \"you,\" or \"your\"). These Terms govern your access to and use of the Services. By accessing or using the Services, you accept these Terms, acknowledge that you have read and understand these Terms, and agree to be bound by these Terms.",
+          "other_terms": "Please note that the DoQshare Terms of Service, DoQshare Business Agreement (if applicable), the DoQshare Privacy Policy, and any other terms found on the DoQshare website apply to the DoQshare Services.",
+          "organization_note": "<strong>If you are entering into these Terms for use of the Services by an organization, you are agreeing on behalf of that organization.</strong> You must have the authority to bind that organization to these terms, otherwise you must not sign up for the Services.",
+          "compliance_intro": "These Terms are designed to comply with applicable laws including, but not limited to, Quebec's Law 25 (An Act to modernize legislative provisions as regards the protection of personal information), the Personal Information Protection and Electronic Documents Act (PIPEDA) of Canada, and the General Data Protection Regulation (GDPR) of the European Union."
+        }
+      },
+      "contact": {
+        "title": "15. Contact Information",
+        "content": {
+          "intro": "If you have any questions about these Terms, please contact us:",
+          "company": "DoQshare",
+          "location": "Laval, Québec, Canada",
+          "email": "Email:",
+          "legal_email": "legal@doqshare.com",
+          "phone": "Phone:",
+          "phone_number": "(450) 111-2233",
+          "privacy_officer": "Privacy Officer:",
+          "privacy_officer_note": "For privacy-related inquiries, including requests to access, correct, or delete your personal information, please contact our Privacy Officer at",
+          "privacy_email": "privacy@doqshare.com"
+        }
+      },
+      "acknowledgment": "By using DoQshare, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service."
+    }
+  },
+  "cookies_page": {
+    "header": {
+      "title": "Cookie Policy",
+      "last_updated": "Last updated:"
+    },
+    "sections": {
+      "introduction": {
+        "title": "1. Introduction",
+        "content": {
+          "policy_explains": "This Cookie Policy explains how DoQshare (\"we,\" \"our,\" or \"us\") uses cookies and similar tracking technologies on our website and platform. This policy should be read in conjunction with our <a href=\"/privacy\" className=\"text-primary hover:underline\">Privacy Policy</a> and <a href=\"/terms\" className=\"text-primary hover:underline\">Terms of Service</a>.",
+          "consent": "By using our Service, you consent to the use of cookies in accordance with this Cookie Policy, unless you have disabled them in your browser settings.",
+          "compliance": "This policy is designed to comply with applicable privacy laws, including Quebec's Law 25, the Personal Information Protection and Electronic Documents Act (PIPEDA) of Canada, and the General Data Protection Regulation (GDPR) of the European Union."
+        }
+      },
+      "what_are_cookies": {
+        "title": "2. What Are Cookies?",
+        "content": {
+          "definition": "Cookies are small text files that are placed on your device (computer, tablet, or mobile) when you visit a website. They are widely used to make websites work more efficiently and provide information to website owners.",
+          "purpose": "Cookies allow a website to recognize your device and store some information about your preferences or past actions. This helps improve your browsing experience and allows websites to provide personalized content.",
+          "similar_tech": "We also use similar technologies such as web beacons, pixel tags, and local storage, which function similarly to cookies. For the purposes of this policy, we refer to all of these technologies as \"cookies.\""
+        }
+      },
+      "contact": {
+        "title": "9. Contact Us",
+        "content": {
+          "intro": "If you have any questions about our use of cookies or this Cookie Policy, please contact us:",
+          "company": "DoQshare",
+          "location": "Laval, Québec, Canada",
+          "email": "Email:",
+          "privacy_email": "privacy@doqshare.com",
+          "phone": "Phone:",
+          "phone_number": "(450) 111-2233"
+        }
+      },
+      "acknowledgment": "By using DoQshare, you acknowledge that you have read and understood this Cookie Policy and consent to our use of cookies as described herein, subject to your cookie preferences."
+    }
+  },
+  "help_page": {
+    "hero": {
+      "title": "DoQshare Help Center",
+      "description": "Find answers to your questions and learn how to get the most out of DoQshare.",
+      "search_placeholder": "Search for help...",
+      "no_answer": "Did not find an answer?",
+      "contact_email": "✉️ support@doqshare.com"
+    },
+    "featured_categories": "Featured Categories",
+    "featured_articles": "Featured Articles",
+    "all_categories": "All Categories",
+    "recent_articles": "Recent Articles",
+    "articles_count": "articles",
+    "contact_support": {
+      "title": "Still need help?",
+      "description": "Can't find what you're looking for? Our support team is here to help.",
+      "contact_button": "Contact Support",
+      "email_button": "support@doqshare.com"
+    }
+  },
+  "blog_page": {
+    "title": "Blog",
+    "description": "Insights, tips, and best practices for secure document sharing, data rooms, and enterprise security.",
+    "rss": "RSS",
+    "featured_article": "Featured Article",
+    "read_article": "Read Article",
+    "read_more": "Read More",
+    "no_articles": "No articles found matching your criteria.",
+    "clear_filters": "Clear Filters",
+    "stay_updated": {
+      "title": "Stay Updated",
+      "description": "Get the latest insights on document security, data rooms, and enterprise solutions delivered to your inbox.",
+      "privacy": "No spam, unsubscribe at any time. We respect your privacy."
+    }
+  },
+  "blog_post_page": {
+    "back_to_blog": "Back to Blog",
+    "author_by": "By",
+    "tags_label": "Tags:",
+    "previous_article": "Previous Article",
+    "next_article": "Next Article",
+    "related_articles": "Related Articles",
+    "read_more": "Read More",
+    "cta": {
+      "title": "Ready to Secure Your Documents?",
+      "description": "Start sharing documents securely with DoQshare. Free plan available, no credit card required.",
+      "get_started": "Get Started Free"
+    }
+  },
+  "help_article_page": {
+    "help_center": "Help Center",
+    "featured": "Featured",
+    "updated": "Updated",
+    "min_read": "min read",
+    "back_to_category": "Back to",
+    "related_articles": "Related Articles",
+    "was_helpful": "Was this article helpful?",
+    "contact_support": "Contact Support"
+  },
+  "app_integration_page": {
+    "metadata": {
+      "title": "App Integrations - DoQshare",
+      "description": "Discover app integrations available with DoQshare to enhance your document sharing workflow.",
+      "keywords": [
+        "app integrations",
+        "DoQshare integrations",
+        "application connectors",
+        "API integrations",
+        "document workflow"
+      ]
+    },
+    "integrations": [
+      {
+        "name": "Microsoft",
+        "description": "Empowering Innovation and Connectivity",
+        "alt": "Microsoft"
+      },
+      {
+        "name": "Spotify",
+        "description": "Your soundtrack to every moment.",
+        "alt": "Spotify"
+      },
+      {
+        "name": "Github",
+        "description": "Your Hub for Open Source Innovation",
+        "alt": "Github"
+      }
+    ]
+  },
+  "forms": {
+    "contact_form": {
+      "title": "Send us a message",
+      "description": "Fill out the form below and we'll get back to you within 24 hours.",
+      "first_name": "First Name",
+      "last_name": "Last Name",
+      "email": "Email",
+      "company": "Company",
+      "subject": "Subject",
+      "message": "Message",
+      "first_name_placeholder": "John",
+      "last_name_placeholder": "Doe",
+      "email_placeholder": "john.doe@company.com",
+      "company_placeholder": "Your company name",
+      "subject_placeholder": "How can we help you?",
+      "message_placeholder": "Describe your request in detail...",
+      "submit": "Send message",
+      "submitting": "Sending...",
+      "success_title": "Message sent successfully!",
+      "success_description": "Thank you for your message. We'll get back to you as soon as possible.",
+      "success_button": "Send another message"
+    },
+    "demo_form": {
+      "title": "Request a demo",
+      "description": "Schedule a personalized 30-45 minute demonstration with our team.",
+      "first_name": "First Name",
+      "last_name": "Last Name",
+      "email": "Professional Email",
+      "company": "Company",
+      "phone": "Phone",
+      "preferred_time": "Preferred time slot",
+      "message": "Message (optional)",
+      "first_name_placeholder": "John",
+      "last_name_placeholder": "Doe",
+      "email_placeholder": "john.doe@company.com",
+      "company_placeholder": "Your company name",
+      "phone_placeholder": "+1 234 567 8900",
+      "time_placeholder": "Select a time slot",
+      "message_placeholder": "Describe your specific needs or questions...",
+      "submit": "Request demo",
+      "submitting": "Sending...",
+      "success_title": "Request sent successfully!",
+      "success_description": "Our sales team will contact you within 24 hours to schedule your personalized demonstration.",
+      "success_button": "Request another demo",
+      "time_slots": [
+        "Monday morning (9am-12pm)",
+        "Monday afternoon (2pm-5pm)",
+        "Tuesday morning (9am-12pm)",
+        "Tuesday afternoon (2pm-5pm)",
+        "Wednesday morning (9am-12pm)",
+        "Wednesday afternoon (2pm-5pm)",
+        "Thursday morning (9am-12pm)",
+        "Thursday afternoon (2pm-5pm)",
+        "Friday morning (9am-12pm)",
+        "Friday afternoon (2pm-5pm)",
+        "Other (specify in message)"
+      ]
+    },
+    "newsletter_form": {
+      "email_placeholder": "Your email address",
+      "button_text": "Subscribe",
+      "submitting": "Sending...",
+      "success_title": "Subscription successful!",
+      "success_description": "Thank you for subscribing to our newsletter.",
+      "success_button": "Subscribe again",
+      "privacy_text": "By subscribing, you agree to receive our emails. You can unsubscribe at any time."
+    }
+  },
+  "testimonials": [
+    {
+      "name": "Martin Patz",
+      "role": "Founder & CEO",
+      "company": "Differential Bio",
+      "avatar": "https://cdn.shadcnstudio.com/ss-assets/avatar/avatar-1.png?width=40&height=40&format=auto",
+      "rating": 5,
+      "content": "DoQshare's tracking features were instrumental in our fundraising success. We could see exactly which investors were engaging with our pitch deck, allowing us to focus on the most interested prospects. This saved us countless hours and helped us close our Series A faster."
+    },
+    {
+      "name": "Kim Grey",
+      "role": "Head of Investor Relations",
+      "company": "Fabric VC",
+      "avatar": "https://cdn.shadcnstudio.com/ss-assets/avatar/avatar-2.png?width=40&height=40&format=auto",
+      "rating": 5,
+      "content": "The security and analytics features are unmatched. We switched from our previous solution and haven't looked back. The custom domain feature gives us a professional edge, and our investors appreciate the seamless experience."
+    },
+    {
+      "name": "Alex Chen",
+      "role": "Managing Partner",
+      "company": "Unify Ventures",
+      "avatar": "https://cdn.shadcnstudio.com/ss-assets/avatar/avatar-3.png?width=40&height=40&format=auto",
+      "rating": 5,
+      "content": "Our transition to DoQshare was seamless. The page-by-page analytics help us understand how startups present their materials, and the security features give us confidence when handling sensitive deal documents."
+    },
+    {
+      "name": "Sarah Martinez",
+      "role": "Founder",
+      "company": "Townhall Network",
+      "avatar": "https://cdn.shadcnstudio.com/ss-assets/avatar/avatar-4.png?width=40&height=40&format=auto",
+      "rating": 5,
+      "content": "DoQshare solved a major pain point for us. The team actually listens to user feedback and builds features we need. The real-time tracking and security features are exactly what we needed for our B2B sales process."
+    }
+  ],
+  "homepage": {
+    "metadata": {
+      "title": "DoQshare - Secure Document Sharing Platform with Advanced Analytics",
+      "description": "DoQshare revolutionizes secure document sharing with advanced analytics. Virtual data rooms, document protection, GDPR/HIPAA/SOC2 compliance.",
+      "keywords": [
+        "secure document sharing",
+        "virtual data room",
+        "document security",
+        "document analytics",
+        "GDPR compliance"
+      ]
+    }
+  }
+}
